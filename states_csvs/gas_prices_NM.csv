@@ -1,0 +1,21 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+NM,Albuquerque,Current,2.688,3.72,3.109,3.4
+NM,Albuquerque,Yesterday,2.701,3.744,3.119,3.413
+NM,Albuquerque,Week Ago,2.806,3.861,3.221,3.516
+NM,Albuquerque,Month Ago,2.988,4.012,3.406,3.714
+NM,Albuquerque,Year Ago,2.761,4.283,3.134,3.408
+NM,Las Cruces,Current,2.694,3.757,3.137,3.362
+NM,Las Cruces,Yesterday,2.694,3.759,3.154,3.416
+NM,Las Cruces,Week Ago,2.796,3.848,3.204,3.519
+NM,Las Cruces,Month Ago,2.866,4.024,3.249,3.566
+NM,Las Cruces,Year Ago,3.11,4.372,3.534,3.787
+NM,Santa Fe,Current,2.776,4.059,3.182,3.511
+NM,Santa Fe,Yesterday,2.786,4.074,3.213,3.515
+NM,Santa Fe,Week Ago,2.862,4.137,3.254,3.551
+NM,Santa Fe,Month Ago,3.027,4.37,3.445,3.718
+NM,Santa Fe,Year Ago,2.825,4.406,3.203,3.5
+NM,Farmington,Current,3.696,4.406,4.02,4.315
+NM,Farmington,Yesterday,3.696,4.41,4.039,4.33
+NM,Farmington,Week Ago,3.76,4.459,4.078,4.363
+NM,Farmington,Month Ago,3.87,4.687,4.184,4.459
+NM,Farmington,Year Ago,3.603,5.002,3.923,4.242

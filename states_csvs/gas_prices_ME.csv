@@ -1,0 +1,16 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+ME,Bangor,Current,3.276,4.435,3.695,4.122
+ME,Bangor,Yesterday,3.287,4.439,3.703,4.14
+ME,Bangor,Week Ago,3.334,4.487,3.76,4.179
+ME,Bangor,Month Ago,3.434,4.484,3.782,4.279
+ME,Bangor,Year Ago,3.49,5.916,3.821,4.218
+ME,Lewiston-Auburn,Current,3.17,4.34,3.576,3.954
+ME,Lewiston-Auburn,Yesterday,3.172,4.355,3.658,3.971
+ME,Lewiston-Auburn,Week Ago,3.238,4.374,3.684,4.014
+ME,Lewiston-Auburn,Month Ago,3.337,4.452,3.777,4.176
+ME,Lewiston-Auburn,Year Ago,3.698,5.713,4.082,4.393
+ME,Portland,Current,3.225,4.324,3.671,4.096
+ME,Portland,Yesterday,3.24,4.329,3.678,4.105
+ME,Portland,Week Ago,3.309,4.367,3.762,4.146
+ME,Portland,Month Ago,3.45,4.418,3.905,4.284
+ME,Portland,Year Ago,3.471,5.506,3.933,4.281

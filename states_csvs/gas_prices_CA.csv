@@ -1,0 +1,156 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+CA,Bakersfield,Current,4.809,5.838,5.035,5.24
+CA,Bakersfield,Yesterday,4.818,5.866,5.053,5.269
+CA,Bakersfield,Week Ago,4.888,5.932,5.13,5.331
+CA,Bakersfield,Month Ago,5.184,6.14,5.392,5.589
+CA,Bakersfield,Year Ago,4.727,5.991,4.897,5.111
+CA,Chico-Paradise,Current,4.395,5.251,4.687,4.804
+CA,Chico-Paradise,Yesterday,4.403,5.272,4.651,4.809
+CA,Chico-Paradise,Week Ago,4.471,5.391,4.684,4.865
+CA,Chico-Paradise,Month Ago,4.765,5.7,5.01,5.217
+CA,Chico-Paradise,Year Ago,4.119,5.452,4.284,4.433
+CA,Fresno,Current,4.467,5.559,4.696,4.89
+CA,Fresno,Yesterday,4.489,5.584,4.722,4.91
+CA,Fresno,Week Ago,4.571,5.682,4.814,4.988
+CA,Fresno,Month Ago,4.856,6.014,5.11,5.274
+CA,Fresno,Year Ago,4.202,5.661,4.436,4.606
+CA,Los Angeles-Long Beach,Current,4.737,5.675,4.965,5.098
+CA,Los Angeles-Long Beach,Yesterday,4.75,5.69,4.973,5.108
+CA,Los Angeles-Long Beach,Week Ago,4.84,5.785,5.059,5.204
+CA,Los Angeles-Long Beach,Month Ago,5.143,6.022,5.358,5.503
+CA,Los Angeles-Long Beach,Year Ago,4.512,5.634,4.731,4.86
+CA,Merced,Current,4.481,5.667,4.731,4.907
+CA,Merced,Yesterday,4.485,5.684,4.792,5.004
+CA,Merced,Week Ago,4.657,5.777,4.894,5.117
+CA,Merced,Month Ago,4.991,6.035,5.196,5.41
+CA,Merced,Year Ago,4.177,5.794,4.444,4.61
+CA,Modesto,Current,4.265,5.45,4.515,4.703
+CA,Modesto,Yesterday,4.276,5.457,4.527,4.723
+CA,Modesto,Week Ago,4.397,5.538,4.636,4.811
+CA,Modesto,Month Ago,4.744,5.922,5.004,5.183
+CA,Modesto,Year Ago,4.114,5.763,4.365,4.55
+CA,Oakland,Current,4.575,5.597,4.796,4.96
+CA,Oakland,Yesterday,4.592,5.615,4.817,4.99
+CA,Oakland,Week Ago,4.701,5.71,4.936,5.084
+CA,Oakland,Month Ago,5.061,6.052,5.291,5.46
+CA,Oakland,Year Ago,4.425,5.807,4.639,4.786
+CA,Orange County,Current,4.57,5.465,4.795,4.911
+CA,Orange County,Yesterday,4.585,5.481,4.811,4.92
+CA,Orange County,Week Ago,4.671,5.573,4.894,5.007
+CA,Orange County,Month Ago,4.997,5.937,5.224,5.334
+CA,Orange County,Year Ago,4.385,5.446,4.609,4.717
+CA,Redding,Current,4.311,5.019,4.448,4.582
+CA,Redding,Yesterday,4.3,5.032,4.482,4.625
+CA,Redding,Week Ago,4.374,5.08,4.554,4.693
+CA,Redding,Month Ago,4.717,5.629,4.817,5.0
+CA,Redding,Year Ago,4.029,5.373,4.256,4.397
+CA,Riverside,Current,4.58,5.416,4.81,4.952
+CA,Riverside,Yesterday,4.581,5.411,4.819,4.964
+CA,Riverside,Week Ago,4.672,5.526,4.888,5.039
+CA,Riverside,Month Ago,4.967,5.812,5.192,5.35
+CA,Riverside,Year Ago,4.367,5.474,4.591,4.723
+CA,Sacramento,Current,4.44,5.329,4.677,4.844
+CA,Sacramento,Yesterday,4.454,5.357,4.695,4.86
+CA,Sacramento,Week Ago,4.551,5.494,4.784,4.952
+CA,Sacramento,Month Ago,4.844,5.843,5.087,5.267
+CA,Sacramento,Year Ago,4.197,5.581,4.424,4.575
+CA,Salinas,Current,4.851,5.909,5.006,5.256
+CA,Salinas,Yesterday,4.872,5.907,5.021,5.27
+CA,Salinas,Week Ago,4.925,6.031,5.088,5.301
+CA,Salinas,Month Ago,5.185,6.176,5.373,5.59
+CA,Salinas,Year Ago,4.715,5.898,4.95,5.078
+CA,San Diego,Current,4.776,5.495,4.996,5.154
+CA,San Diego,Yesterday,4.783,5.529,5.001,5.147
+CA,San Diego,Week Ago,4.87,5.636,5.079,5.234
+CA,San Diego,Month Ago,5.177,5.913,5.404,5.554
+CA,San Diego,Year Ago,4.491,5.507,4.701,4.847
+CA,San Francisco,Current,4.709,5.559,4.92,5.104
+CA,San Francisco,Yesterday,4.735,5.574,4.95,5.107
+CA,San Francisco,Week Ago,4.838,5.714,5.025,5.214
+CA,San Francisco,Month Ago,5.198,6.054,5.4,5.558
+CA,San Francisco,Year Ago,4.548,5.755,4.741,4.914
+CA,San Jose,Current,4.552,5.525,4.785,4.929
+CA,San Jose,Yesterday,4.563,5.543,4.795,4.943
+CA,San Jose,Week Ago,4.649,5.632,4.878,5.026
+CA,San Jose,Month Ago,4.975,5.985,5.206,5.355
+CA,San Jose,Year Ago,4.47,5.762,4.7,4.842
+CA,San Luis Obispo-Atascadero-Paso Robles,Current,4.935,6.009,5.149,5.319
+CA,San Luis Obispo-Atascadero-Paso Robles,Yesterday,4.958,6.058,5.168,5.34
+CA,San Luis Obispo-Atascadero-Paso Robles,Week Ago,5.055,6.13,5.255,5.426
+CA,San Luis Obispo-Atascadero-Paso Robles,Month Ago,5.28,6.348,5.49,5.677
+CA,San Luis Obispo-Atascadero-Paso Robles,Year Ago,4.945,5.997,5.155,5.299
+CA,Santa Barbara-Santa Maria-Lompoc,Current,4.74,5.842,4.937,5.085
+CA,Santa Barbara-Santa Maria-Lompoc,Yesterday,4.765,5.839,4.936,5.093
+CA,Santa Barbara-Santa Maria-Lompoc,Week Ago,4.867,5.972,5.021,5.192
+CA,Santa Barbara-Santa Maria-Lompoc,Month Ago,5.125,6.154,5.291,5.452
+CA,Santa Barbara-Santa Maria-Lompoc,Year Ago,4.575,5.791,4.775,4.931
+CA,Santa Cruz-Watsonville,Current,4.744,5.861,5.03,5.165
+CA,Santa Cruz-Watsonville,Yesterday,4.754,5.883,5.064,5.18
+CA,Santa Cruz-Watsonville,Week Ago,4.867,5.995,5.133,5.276
+CA,Santa Cruz-Watsonville,Month Ago,5.157,6.221,5.434,5.593
+CA,Santa Cruz-Watsonville,Year Ago,4.707,5.959,5.011,5.082
+CA,Santa Rosa,Current,4.738,5.493,4.982,5.144
+CA,Santa Rosa,Yesterday,4.761,5.498,4.997,5.159
+CA,Santa Rosa,Week Ago,4.868,5.6,5.097,5.245
+CA,Santa Rosa,Month Ago,5.247,5.954,5.469,5.629
+CA,Santa Rosa,Year Ago,4.535,5.735,4.753,4.89
+CA,Stockton-Lodi,Current,4.28,5.378,4.505,4.676
+CA,Stockton-Lodi,Yesterday,4.289,5.401,4.512,4.709
+CA,Stockton-Lodi,Week Ago,4.375,5.509,4.605,4.784
+CA,Stockton-Lodi,Month Ago,4.712,5.905,4.964,5.128
+CA,Stockton-Lodi,Year Ago,4.108,5.703,4.367,4.516
+CA,Vallejo-Fairfield,Current,4.57,5.41,4.823,4.981
+CA,Vallejo-Fairfield,Yesterday,4.588,5.419,4.835,4.992
+CA,Vallejo-Fairfield,Week Ago,4.672,5.566,4.929,5.088
+CA,Vallejo-Fairfield,Month Ago,5.018,5.891,5.275,5.44
+CA,Vallejo-Fairfield,Year Ago,4.326,5.605,4.572,4.722
+CA,Ventura,Current,4.806,5.763,5.031,5.172
+CA,Ventura,Yesterday,4.829,5.785,5.054,5.191
+CA,Ventura,Week Ago,4.905,5.873,5.136,5.27
+CA,Ventura,Month Ago,5.222,6.151,5.428,5.575
+CA,Ventura,Year Ago,4.562,5.898,4.81,4.936
+CA,Visalia-Tulare-Porterville,Current,4.615,5.623,4.793,5.051
+CA,Visalia-Tulare-Porterville,Yesterday,4.648,5.68,4.823,5.056
+CA,Visalia-Tulare-Porterville,Week Ago,4.721,5.808,4.9,5.147
+CA,Visalia-Tulare-Porterville,Month Ago,5.047,6.058,5.268,5.476
+CA,Visalia-Tulare-Porterville,Year Ago,4.292,5.667,4.49,4.714
+CA,Yolo,Current,4.383,5.169,4.671,4.844
+CA,Yolo,Yesterday,4.389,5.191,4.676,4.831
+CA,Yolo,Week Ago,4.535,5.357,4.797,5.0
+CA,Yolo,Month Ago,4.827,5.734,5.099,5.268
+CA,Yolo,Year Ago,4.176,5.522,4.38,4.53
+CA,Yuba City,Current,4.154,5.272,4.448,4.579
+CA,Yuba City,Yesterday,4.174,5.292,4.42,4.603
+CA,Yuba City,Week Ago,4.272,5.446,4.565,4.725
+CA,Yuba City,Month Ago,4.724,5.794,5.072,5.283
+CA,Yuba City,Year Ago,4.064,5.341,4.311,4.487
+CA,El Centro,Current,4.397,5.681,4.666,4.858
+CA,El Centro,Yesterday,4.416,5.655,4.681,4.86
+CA,El Centro,Week Ago,4.545,5.723,4.84,4.979
+CA,El Centro,Month Ago,4.878,5.953,5.105,5.31
+CA,El Centro,Year Ago,4.148,5.849,4.399,4.625
+CA,Hanford-Corcoran,Current,4.337,5.543,4.52,4.679
+CA,Hanford-Corcoran,Yesterday,4.348,5.578,4.493,4.675
+CA,Hanford-Corcoran,Week Ago,4.418,5.67,4.715,4.789
+CA,Hanford-Corcoran,Month Ago,4.65,5.972,4.943,5.102
+CA,Hanford-Corcoran,Year Ago,4.285,5.654,4.271,4.63
+CA,Madera-Chowchilla,Current,4.486,5.689,4.745,4.939
+CA,Madera-Chowchilla,Yesterday,4.519,5.659,4.743,5.007
+CA,Madera-Chowchilla,Week Ago,4.569,5.825,4.791,5.037
+CA,Madera-Chowchilla,Month Ago,4.964,6.058,5.213,5.385
+CA,Madera-Chowchilla,Year Ago,4.103,5.617,4.403,4.706
+CA,Napa,Current,4.77,5.62,4.966,5.143
+CA,Napa,Yesterday,4.785,5.567,4.979,5.139
+CA,Napa,Week Ago,4.853,5.688,5.041,5.222
+CA,Napa,Month Ago,5.228,6.227,5.429,5.587
+CA,Napa,Year Ago,4.661,5.885,4.802,4.938
+CA,San Bernardino,Current,4.519,5.464,4.702,4.871
+CA,San Bernardino,Yesterday,4.534,5.48,4.718,4.9
+CA,San Bernardino,Week Ago,4.641,5.577,4.82,4.971
+CA,San Bernardino,Month Ago,4.928,5.855,5.113,5.278
+CA,San Bernardino,Year Ago,4.343,5.43,4.531,4.692
+CA,San Rafael,Current,4.655,5.439,4.856,5.011
+CA,San Rafael,Yesterday,4.657,5.471,4.859,5.01
+CA,San Rafael,Week Ago,4.775,5.536,4.987,5.145
+CA,San Rafael,Month Ago,5.198,6.027,5.366,5.6
+CA,San Rafael,Year Ago,4.439,5.626,4.627,4.785

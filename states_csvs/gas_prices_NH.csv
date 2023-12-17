@@ -1,0 +1,11 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+NH,Manchester,Current,3.158,4.196,3.753,4.125
+NH,Manchester,Yesterday,3.164,4.195,3.75,4.124
+NH,Manchester,Week Ago,3.215,4.236,3.785,4.198
+NH,Manchester,Month Ago,3.325,4.316,3.875,4.282
+NH,Manchester,Year Ago,3.379,5.375,3.982,4.381
+NH,Portsmouth-Rochester (NH only),Current,3.05,4.166,3.545,3.966
+NH,Portsmouth-Rochester (NH only),Yesterday,3.058,4.168,3.539,3.947
+NH,Portsmouth-Rochester (NH only),Week Ago,3.091,4.196,3.591,3.998
+NH,Portsmouth-Rochester (NH only),Month Ago,3.189,4.245,3.68,4.086
+NH,Portsmouth-Rochester (NH only),Year Ago,3.278,5.308,3.796,4.176

@@ -1,0 +1,76 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+IN,Bloomington,Current,2.885,4.164,3.438,3.891
+IN,Bloomington,Yesterday,2.911,4.228,3.491,3.934
+IN,Bloomington,Week Ago,3.031,4.266,3.61,4.051
+IN,Bloomington,Month Ago,3.453,4.494,3.981,4.435
+IN,Bloomington,Year Ago,3.521,5.216,4.031,4.364
+IN,Fort Wayne,Current,2.598,4.024,3.14,3.638
+IN,Fort Wayne,Yesterday,2.622,4.037,3.158,3.661
+IN,Fort Wayne,Week Ago,2.768,4.121,3.329,3.829
+IN,Fort Wayne,Month Ago,3.346,4.441,3.87,4.355
+IN,Fort Wayne,Year Ago,3.158,5.166,3.672,4.099
+IN,Gary,Current,2.794,4.027,3.3,3.761
+IN,Gary,Yesterday,2.819,4.039,3.34,3.79
+IN,Gary,Week Ago,2.996,4.134,3.506,3.964
+IN,Gary,Month Ago,3.25,4.414,3.765,4.223
+IN,Gary,Year Ago,3.068,5.075,3.588,4.035
+IN,Indianapolis,Current,2.714,4.146,3.258,3.736
+IN,Indianapolis,Yesterday,2.741,4.168,3.287,3.764
+IN,Indianapolis,Week Ago,2.865,4.239,3.408,3.879
+IN,Indianapolis,Month Ago,3.327,4.439,3.855,4.335
+IN,Indianapolis,Year Ago,3.082,5.259,3.611,4.034
+IN,South Bend,Current,2.747,4.036,3.318,3.79
+IN,South Bend,Yesterday,2.785,4.073,3.364,3.832
+IN,South Bend,Week Ago,2.901,4.194,3.464,3.945
+IN,South Bend,Month Ago,3.292,4.426,3.837,4.313
+IN,South Bend,Year Ago,2.921,4.988,3.442,3.925
+IN,Terre Haute,Current,2.657,4.145,3.119,3.554
+IN,Terre Haute,Yesterday,2.692,4.178,3.161,3.591
+IN,Terre Haute,Week Ago,2.838,4.245,3.314,3.721
+IN,Terre Haute,Month Ago,3.324,4.435,3.793,4.214
+IN,Terre Haute,Year Ago,2.983,5.093,3.369,3.784
+IN,Clarksville,Current,2.856,4.062,3.269,3.686
+IN,Clarksville,Yesterday,2.878,4.072,3.313,3.702
+IN,Clarksville,Week Ago,2.961,4.148,3.408,3.785
+IN,Clarksville,Month Ago,3.23,4.344,3.66,4.037
+IN,Clarksville,Year Ago,3.251,4.901,3.688,3.999
+IN,Columbus,Current,2.802,4.003,3.344,3.799
+IN,Columbus,Yesterday,2.821,4.026,3.353,3.805
+IN,Columbus,Week Ago,2.902,4.077,3.405,3.886
+IN,Columbus,Month Ago,3.328,4.383,3.825,4.268
+IN,Columbus,Year Ago,3.116,5.171,3.586,3.978
+IN,Dearborn-Franklin-Ohio-Union,Current,2.828,4.081,3.339,3.816
+IN,Dearborn-Franklin-Ohio-Union,Yesterday,2.844,4.087,3.377,3.795
+IN,Dearborn-Franklin-Ohio-Union,Week Ago,2.912,4.188,3.467,3.914
+IN,Dearborn-Franklin-Ohio-Union,Month Ago,3.241,4.421,3.668,4.184
+IN,Dearborn-Franklin-Ohio-Union,Year Ago,3.179,5.053,3.652,4.099
+IN,Elkhart,Current,2.721,3.932,3.257,3.701
+IN,Elkhart,Yesterday,2.753,3.942,3.277,3.723
+IN,Elkhart,Week Ago,2.891,4.042,3.415,3.858
+IN,Elkhart,Month Ago,3.338,4.36,3.85,4.296
+IN,Elkhart,Year Ago,3.042,5.014,3.56,4.019
+IN,Evansville,Current,2.825,4.113,3.257,3.64
+IN,Evansville,Yesterday,2.839,4.121,3.265,3.655
+IN,Evansville,Week Ago,2.901,4.183,3.326,3.702
+IN,Evansville,Month Ago,3.247,4.338,3.66,4.041
+IN,Evansville,Year Ago,2.879,5.053,3.242,3.539
+IN,Kokomo,Current,2.754,4.057,3.277,3.74
+IN,Kokomo,Yesterday,2.786,4.083,3.329,3.782
+IN,Kokomo,Week Ago,2.968,4.149,3.522,3.943
+IN,Kokomo,Month Ago,3.386,4.423,3.891,4.375
+IN,Kokomo,Year Ago,3.324,5.287,3.835,4.26
+IN,Lafayette,Current,2.991,4.149,3.511,3.981
+IN,Lafayette,Yesterday,3.016,4.18,3.572,4.01
+IN,Lafayette,Week Ago,3.129,4.254,3.642,4.119
+IN,Lafayette,Month Ago,3.433,4.494,3.942,4.414
+IN,Lafayette,Year Ago,3.398,5.263,3.91,4.344
+IN,Michigan City-La Porte,Current,2.78,4.019,3.297,3.784
+IN,Michigan City-La Porte,Yesterday,2.817,4.02,3.35,3.868
+IN,Michigan City-La Porte,Week Ago,2.979,4.062,3.506,4.026
+IN,Michigan City-La Porte,Month Ago,3.314,4.382,3.829,4.331
+IN,Michigan City-La Porte,Year Ago,3.092,4.873,3.667,4.122
+IN,Muncie,Current,2.682,4.083,3.195,3.628
+IN,Muncie,Yesterday,2.7,4.088,3.212,3.674
+IN,Muncie,Week Ago,2.849,4.185,3.367,3.824
+IN,Muncie,Month Ago,3.313,4.43,3.785,4.254
+IN,Muncie,Year Ago,3.031,5.248,3.577,3.973

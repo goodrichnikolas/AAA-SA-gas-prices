@@ -1,0 +1,36 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+ID,Coeur D'Alene,Current,3.54,3.999,3.823,4.093
+ID,Coeur D'Alene,Yesterday,3.558,4.022,3.82,4.1
+ID,Coeur D'Alene,Week Ago,3.621,4.094,3.931,4.168
+ID,Coeur D'Alene,Month Ago,3.827,4.404,4.081,4.341
+ID,Coeur D'Alene,Year Ago,3.172,4.782,3.402,3.633
+ID,Boise City,Current,3.41,4.246,3.575,3.795
+ID,Boise City,Yesterday,3.419,4.255,3.581,3.799
+ID,Boise City,Week Ago,3.466,4.316,3.644,3.841
+ID,Boise City,Month Ago,3.742,4.539,3.917,4.082
+ID,Boise City,Year Ago,3.789,5.527,3.985,4.151
+ID,Pocatello,Current,2.909,4.201,3.11,3.354
+ID,Pocatello,Yesterday,2.936,4.235,3.132,3.38
+ID,Pocatello,Week Ago,3.127,4.301,3.392,3.567
+ID,Pocatello,Month Ago,3.634,4.522,3.865,4.103
+ID,Pocatello,Year Ago,3.76,5.338,4.033,4.232
+ID,Franklin,Current,2.87,4.075,3.312,3.514
+ID,Franklin,Yesterday,2.893,4.025,3.332,3.526
+ID,Franklin,Week Ago,3.041,4.089,3.404,3.636
+ID,Franklin,Month Ago,3.62,4.402,3.938,4.152
+ID,Franklin,Year Ago,3.638,5.419,3.939,4.129
+ID,Idaho Falls,Current,3.212,4.203,3.466,3.671
+ID,Idaho Falls,Yesterday,3.236,4.231,3.514,3.701
+ID,Idaho Falls,Week Ago,3.386,4.338,3.669,3.859
+ID,Idaho Falls,Month Ago,3.679,4.587,3.934,4.14
+ID,Idaho Falls,Year Ago,3.717,5.334,4.014,4.191
+ID,Lewiston,Current,3.723,4.386,4.081,4.166
+ID,Lewiston,Yesterday,3.751,4.378,3.962,4.153
+ID,Lewiston,Week Ago,3.762,4.402,4.149,4.258
+ID,Lewiston,Month Ago,3.864,4.615,4.127,4.342
+ID,Lewiston,Year Ago,3.688,4.908,3.951,4.168
+ID,Twin Falls,Current,3.28,4.273,3.549,3.791
+ID,Twin Falls,Yesterday,3.311,4.296,3.56,3.779
+ID,Twin Falls,Week Ago,3.411,4.416,3.653,3.912
+ID,Twin Falls,Month Ago,3.688,4.671,3.953,4.17
+ID,Twin Falls,Year Ago,3.717,5.48,3.949,4.241

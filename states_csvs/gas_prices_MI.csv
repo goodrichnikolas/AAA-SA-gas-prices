@@ -1,0 +1,51 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+MI,Traverse City,Current,2.896,4.095,3.444,3.946
+MI,Traverse City,Yesterday,2.92,4.114,3.464,3.953
+MI,Traverse City,Week Ago,3.105,4.133,3.658,4.16
+MI,Traverse City,Month Ago,3.308,4.262,3.823,4.274
+MI,Traverse City,Year Ago,3.427,5.278,3.97,4.413
+MI,Ann Arbor,Current,3.051,4.134,3.602,4.071
+MI,Ann Arbor,Yesterday,3.068,4.145,3.627,4.106
+MI,Ann Arbor,Week Ago,3.167,4.186,3.728,4.201
+MI,Ann Arbor,Month Ago,3.395,4.349,3.927,4.36
+MI,Ann Arbor,Year Ago,3.102,5.116,3.667,4.136
+MI,Benton Harbor,Current,2.896,3.953,3.464,3.934
+MI,Benton Harbor,Yesterday,2.929,3.978,3.498,3.987
+MI,Benton Harbor,Week Ago,3.086,4.042,3.614,4.098
+MI,Benton Harbor,Month Ago,3.279,4.326,3.767,4.28
+MI,Benton Harbor,Year Ago,3.185,5.001,3.649,4.155
+MI,Metro Detroit,Current,2.972,4.142,3.6,4.104
+MI,Metro Detroit,Yesterday,2.985,4.154,3.624,4.124
+MI,Metro Detroit,Week Ago,3.105,4.207,3.737,4.231
+MI,Metro Detroit,Month Ago,3.363,4.349,3.928,4.429
+MI,Metro Detroit,Year Ago,3.008,5.186,3.625,4.098
+MI,Flint,Current,2.902,4.046,3.42,3.92
+MI,Flint,Yesterday,2.928,4.056,3.438,3.953
+MI,Flint,Week Ago,3.131,4.132,3.647,4.139
+MI,Flint,Month Ago,3.316,4.254,3.816,4.307
+MI,Flint,Year Ago,3.035,5.181,3.518,3.951
+MI,Grand Rapids-Muskegon-Holland,Current,2.909,3.976,3.44,3.92
+MI,Grand Rapids-Muskegon-Holland,Yesterday,2.937,3.986,3.463,3.945
+MI,Grand Rapids-Muskegon-Holland,Week Ago,3.107,4.05,3.631,4.125
+MI,Grand Rapids-Muskegon-Holland,Month Ago,3.251,4.277,3.749,4.237
+MI,Grand Rapids-Muskegon-Holland,Year Ago,3.256,4.944,3.772,4.239
+MI,Jackson,Current,3.129,4.078,3.705,4.208
+MI,Jackson,Yesterday,3.135,4.102,3.718,4.197
+MI,Jackson,Week Ago,3.23,4.146,3.781,4.264
+MI,Jackson,Month Ago,3.414,4.356,3.967,4.447
+MI,Jackson,Year Ago,3.273,5.127,3.92,4.286
+MI,Lansing-East Lansing,Current,3.023,4.188,3.563,4.05
+MI,Lansing-East Lansing,Yesterday,3.055,4.203,3.61,4.092
+MI,Lansing-East Lansing,Week Ago,3.204,4.269,3.733,4.222
+MI,Lansing-East Lansing,Month Ago,3.332,4.394,3.838,4.319
+MI,Lansing-East Lansing,Year Ago,3.034,5.201,3.551,4.014
+MI,Saginaw-Bay City-Midland,Current,2.996,4.07,3.489,4.007
+MI,Saginaw-Bay City-Midland,Yesterday,3.033,4.08,3.529,4.04
+MI,Saginaw-Bay City-Midland,Week Ago,3.158,4.123,3.638,4.166
+MI,Saginaw-Bay City-Midland,Month Ago,3.299,4.278,3.766,4.283
+MI,Saginaw-Bay City-Midland,Year Ago,3.095,5.062,3.586,4.039
+MI,Marquette,Current,3.179,4.205,3.636,4.065
+MI,Marquette,Yesterday,3.185,4.212,3.675,4.063
+MI,Marquette,Week Ago,3.218,4.254,3.712,4.068
+MI,Marquette,Month Ago,3.407,4.363,3.933,4.341
+MI,Marquette,Year Ago,3.036,5.079,3.482,4.165

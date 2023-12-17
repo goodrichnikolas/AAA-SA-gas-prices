@@ -1,0 +1,41 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+MD,Salisbury,Current,3.057,3.982,3.482,3.78
+MD,Salisbury,Yesterday,3.059,3.985,3.468,3.782
+MD,Salisbury,Week Ago,3.114,4.075,3.54,3.853
+MD,Salisbury,Month Ago,3.174,4.046,3.582,3.931
+MD,Salisbury,Year Ago,3.13,4.97,3.5,3.821
+MD,Baltimore,Current,3.085,4.023,3.595,3.892
+MD,Baltimore,Yesterday,3.082,4.03,3.587,3.892
+MD,Baltimore,Week Ago,3.135,4.092,3.647,3.95
+MD,Baltimore,Month Ago,3.212,4.127,3.724,4.037
+MD,Baltimore,Year Ago,3.147,5.015,3.644,3.921
+MD,Hagerstown,Current,3.074,4.136,3.454,3.765
+MD,Hagerstown,Yesterday,3.091,4.145,3.456,3.754
+MD,Hagerstown,Week Ago,3.149,4.187,3.496,3.847
+MD,Hagerstown,Month Ago,3.139,4.275,3.489,3.875
+MD,Hagerstown,Year Ago,3.345,5.32,3.604,3.83
+MD,Washington (MD only),Current,3.176,4.168,3.744,4.031
+MD,Washington (MD only),Yesterday,3.169,4.168,3.757,4.026
+MD,Washington (MD only),Week Ago,3.239,4.221,3.827,4.138
+MD,Washington (MD only),Month Ago,3.317,4.293,3.898,4.202
+MD,Washington (MD only),Year Ago,3.293,5.175,3.85,4.109
+MD,Cumberland (MD Only),Current,3.208,4.294,3.553,3.831
+MD,Cumberland (MD Only),Yesterday,3.217,4.323,3.553,3.821
+MD,Cumberland (MD Only),Week Ago,3.288,4.346,3.584,3.915
+MD,Cumberland (MD Only),Month Ago,3.328,4.223,3.627,3.996
+MD,Cumberland (MD Only),Year Ago,3.647,5.429,3.763,3.886
+MD,Bowie-St. Charles,Current,3.101,4.11,3.837,4.087
+MD,Bowie-St. Charles,Yesterday,3.098,4.126,3.84,4.077
+MD,Bowie-St. Charles,Week Ago,3.155,4.197,3.884,4.147
+MD,Bowie-St. Charles,Month Ago,3.261,4.275,4.002,4.256
+MD,Bowie-St. Charles,Year Ago,3.189,5.103,3.886,4.128
+MD,Annapolis,Current,3.08,4.019,3.671,3.943
+MD,Annapolis,Yesterday,3.077,4.022,3.632,3.934
+MD,Annapolis,Week Ago,3.134,4.084,3.707,3.978
+MD,Annapolis,Month Ago,3.209,4.152,3.819,4.084
+MD,Annapolis,Year Ago,3.147,5.016,3.689,3.946
+MD,Frederick,Current,3.086,4.031,3.494,3.785
+MD,Frederick,Yesterday,3.092,4.039,3.489,3.787
+MD,Frederick,Week Ago,3.146,4.086,3.535,3.848
+MD,Frederick,Month Ago,3.191,4.136,3.589,3.889
+MD,Frederick,Year Ago,3.181,5.017,3.562,3.807

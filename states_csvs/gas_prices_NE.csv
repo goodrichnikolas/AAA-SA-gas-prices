@@ -1,0 +1,36 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+NE,Lincoln,Current,3.206,3.881,3.341,4.021
+NE,Lincoln,Yesterday,3.202,3.903,3.335,4.024
+NE,Lincoln,Week Ago,3.26,4.01,3.356,4.075
+NE,Lincoln,Month Ago,3.379,4.41,3.545,4.115
+NE,Lincoln,Year Ago,3.188,4.435,3.423,4.023
+NE,Omaha (NE only),Current,2.61,3.776,2.923,3.338
+NE,Omaha (NE only),Yesterday,2.611,3.793,2.967,3.364
+NE,Omaha (NE only),Week Ago,2.685,3.905,3.02,3.455
+NE,Omaha (NE only),Month Ago,2.963,4.274,3.265,3.726
+NE,Omaha (NE only),Year Ago,2.855,4.325,3.187,3.651
+NE,Grand Island,Current,2.914,3.67,3.064,3.531
+NE,Grand Island,Yesterday,2.917,3.7,3.062,3.533
+NE,Grand Island,Week Ago,2.983,3.75,3.13,3.528
+NE,Grand Island,Month Ago,3.095,4.147,3.344,3.688
+NE,Grand Island,Year Ago,2.898,4.158,3.155,3.602
+NE,North Platte,Current,3.325,3.31,3.168,3.789
+NE,North Platte,Yesterday,3.325,3.303,3.207,3.738
+NE,North Platte,Week Ago,3.243,3.49,3.31,3.804
+NE,North Platte,Month Ago,3.541,4.058,3.481,3.973
+NE,North Platte,Year Ago,3.358,4.158,3.297,3.919
+NE,Norfolk,Current,2.796,3.55,3.266,3.729
+NE,Norfolk,Yesterday,2.818,3.566,3.209,3.738
+NE,Norfolk,Week Ago,2.917,3.702,3.312,3.783
+NE,Norfolk,Month Ago,3.272,4.279,3.669,4.159
+NE,Norfolk,Year Ago,2.604,3.96,3.022,3.512
+NE,Columbus,Current,2.771,3.683,2.765,3.491
+NE,Columbus,Yesterday,2.792,3.766,2.816,3.491
+NE,Columbus,Week Ago,2.86,3.989,2.966,3.559
+NE,Columbus,Month Ago,2.99,4.222,3.183,3.747
+NE,Columbus,Year Ago,3.075,4.693,3.111,3.759
+NE,Kearney,Current,3.011,3.914,3.313,3.856
+NE,Kearney,Yesterday,3.046,3.907,3.27,3.874
+NE,Kearney,Week Ago,3.156,4.003,3.321,3.97
+NE,Kearney,Month Ago,3.426,4.289,3.631,4.243
+NE,Kearney,Year Ago,3.111,4.246,3.299,3.745

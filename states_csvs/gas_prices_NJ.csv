@@ -1,0 +1,56 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+NJ,Atlantic City,Current,3.136,4.137,3.667,3.87
+NJ,Atlantic City,Yesterday,3.141,4.136,3.657,3.871
+NJ,Atlantic City,Week Ago,3.214,4.219,3.74,3.966
+NJ,Atlantic City,Month Ago,3.247,4.306,3.767,3.978
+NJ,Atlantic City,Year Ago,3.364,5.281,3.896,4.109
+NJ,Bergen-Passaic,Current,3.129,4.191,3.795,4.103
+NJ,Bergen-Passaic,Yesterday,3.14,4.213,3.802,4.113
+NJ,Bergen-Passaic,Week Ago,3.198,4.304,3.845,4.175
+NJ,Bergen-Passaic,Month Ago,3.307,4.433,3.956,4.263
+NJ,Bergen-Passaic,Year Ago,3.279,5.133,3.979,4.308
+NJ,Middlesex-Somerset-Hunterdon,Current,3.143,4.101,3.756,4.052
+NJ,Middlesex-Somerset-Hunterdon,Yesterday,3.153,4.104,3.749,4.045
+NJ,Middlesex-Somerset-Hunterdon,Week Ago,3.226,4.214,3.849,4.146
+NJ,Middlesex-Somerset-Hunterdon,Month Ago,3.302,4.338,3.912,4.197
+NJ,Middlesex-Somerset-Hunterdon,Year Ago,3.403,5.205,4.045,4.316
+NJ,Monmouth-Ocean,Current,3.148,4.199,3.775,4.032
+NJ,Monmouth-Ocean,Yesterday,3.16,4.22,3.774,4.015
+NJ,Monmouth-Ocean,Week Ago,3.238,4.297,3.865,4.095
+NJ,Monmouth-Ocean,Month Ago,3.299,4.396,3.91,4.144
+NJ,Monmouth-Ocean,Year Ago,3.374,5.263,3.994,4.234
+NJ,Newark,Current,3.189,4.239,3.882,4.13
+NJ,Newark,Yesterday,3.192,4.264,3.861,4.154
+NJ,Newark,Week Ago,3.252,4.318,3.926,4.24
+NJ,Newark,Month Ago,3.334,4.439,4.027,4.324
+NJ,Newark,Year Ago,3.385,5.227,4.097,4.389
+NJ,Trenton,Current,3.183,4.197,3.794,4.104
+NJ,Trenton,Yesterday,3.192,4.209,3.833,4.124
+NJ,Trenton,Week Ago,3.244,4.276,3.816,4.182
+NJ,Trenton,Month Ago,3.296,4.399,3.916,4.215
+NJ,Trenton,Year Ago,3.442,5.189,4.173,4.428
+NJ,Philadelphia (NJ Only),Current,3.048,4.1,3.633,3.842
+NJ,Philadelphia (NJ Only),Yesterday,3.054,4.121,3.627,3.841
+NJ,Philadelphia (NJ Only),Week Ago,3.13,4.175,3.698,3.912
+NJ,Philadelphia (NJ Only),Month Ago,3.188,4.275,3.768,3.99
+NJ,Philadelphia (NJ Only),Year Ago,3.294,5.237,3.903,4.102
+NJ,Cape May,Current,3.164,4.277,3.787,3.954
+NJ,Cape May,Yesterday,3.169,4.281,3.799,3.955
+NJ,Cape May,Week Ago,3.332,4.366,3.849,4.113
+NJ,Cape May,Month Ago,3.405,4.466,3.924,4.242
+NJ,Cape May,Year Ago,3.519,5.396,4.045,4.227
+NJ,Parsippany-Troy Hills,Current,3.113,4.187,3.769,4.011
+NJ,Parsippany-Troy Hills,Yesterday,3.124,4.217,3.772,4.036
+NJ,Parsippany-Troy Hills,Week Ago,3.201,4.283,3.864,4.106
+NJ,Parsippany-Troy Hills,Month Ago,3.3,4.39,3.935,4.209
+NJ,Parsippany-Troy Hills,Year Ago,3.256,5.169,4.047,4.289
+NJ,Vineland,Current,3.091,4.111,3.641,3.761
+NJ,Vineland,Yesterday,3.102,4.12,3.639,3.805
+NJ,Vineland,Week Ago,3.159,4.204,3.681,3.873
+NJ,Vineland,Month Ago,3.225,4.324,3.668,3.898
+NJ,Vineland,Year Ago,3.417,5.372,3.934,4.135
+NJ,Warren County,Current,3.007,4.012,3.668,3.942
+NJ,Warren County,Yesterday,3.01,4.018,3.67,3.936
+NJ,Warren County,Week Ago,3.083,4.109,3.682,3.99
+NJ,Warren County,Month Ago,3.197,4.234,3.78,4.067
+NJ,Warren County,Year Ago,3.244,4.991,3.755,4.069

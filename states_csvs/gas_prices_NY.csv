@@ -1,0 +1,81 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+NY,Albany-Schenectady-Troy,Current,3.366,4.394,3.953,4.377
+NY,Albany-Schenectady-Troy,Yesterday,3.373,4.408,3.952,4.381
+NY,Albany-Schenectady-Troy,Week Ago,3.448,4.433,4.021,4.451
+NY,Albany-Schenectady-Troy,Month Ago,3.574,4.51,4.129,4.574
+NY,Albany-Schenectady-Troy,Year Ago,3.516,5.577,4.035,4.448
+NY,Binghamton,Current,3.532,4.533,3.971,4.362
+NY,Binghamton,Yesterday,3.54,4.548,3.988,4.378
+NY,Binghamton,Week Ago,3.595,4.566,4.037,4.428
+NY,Binghamton,Month Ago,3.724,4.652,4.153,4.56
+NY,Binghamton,Year Ago,3.522,5.557,3.957,4.335
+NY,Buffalo-Niagara Falls,Current,3.556,4.614,3.995,4.35
+NY,Buffalo-Niagara Falls,Yesterday,3.558,4.617,4.002,4.364
+NY,Buffalo-Niagara Falls,Week Ago,3.6,4.614,4.029,4.37
+NY,Buffalo-Niagara Falls,Month Ago,3.698,4.66,4.113,4.46
+NY,Buffalo-Niagara Falls,Year Ago,3.557,5.63,3.958,4.303
+NY,Nassau-Suffolk,Current,3.249,4.445,3.815,4.147
+NY,Nassau-Suffolk,Yesterday,3.259,4.452,3.838,4.16
+NY,Nassau-Suffolk,Week Ago,3.326,4.517,3.895,4.216
+NY,Nassau-Suffolk,Month Ago,3.5,4.604,4.056,4.391
+NY,Nassau-Suffolk,Year Ago,3.357,5.292,3.933,4.244
+NY,New York,Current,3.441,4.762,3.925,4.32
+NY,New York,Yesterday,3.457,4.776,3.941,4.33
+NY,New York,Week Ago,3.505,4.822,3.998,4.391
+NY,New York,Month Ago,3.686,4.881,4.158,4.554
+NY,New York,Year Ago,3.593,5.477,4.04,4.412
+NY,Rochester,Current,3.518,4.598,3.943,4.328
+NY,Rochester,Yesterday,3.532,4.6,3.952,4.33
+NY,Rochester,Week Ago,3.571,4.623,3.997,4.368
+NY,Rochester,Month Ago,3.711,4.672,4.156,4.512
+NY,Rochester,Year Ago,3.593,5.653,4.005,4.392
+NY,Syracuse,Current,3.449,4.505,3.899,4.308
+NY,Syracuse,Yesterday,3.46,4.509,3.903,4.318
+NY,Syracuse,Week Ago,3.521,4.527,3.955,4.361
+NY,Syracuse,Month Ago,3.662,4.598,4.092,4.492
+NY,Syracuse,Year Ago,3.529,5.605,4.003,4.332
+NY,Utica-Rome,Current,3.471,4.535,3.986,4.385
+NY,Utica-Rome,Yesterday,3.494,4.535,4.024,4.421
+NY,Utica-Rome,Week Ago,3.571,4.575,4.046,4.488
+NY,Utica-Rome,Month Ago,3.657,4.582,4.127,4.552
+NY,Utica-Rome,Year Ago,3.599,5.587,4.148,4.518
+NY,Dutchess-Putnam County,Current,3.406,4.376,4.021,4.364
+NY,Dutchess-Putnam County,Yesterday,3.414,4.367,4.028,4.396
+NY,Dutchess-Putnam County,Week Ago,3.462,4.429,4.088,4.423
+NY,Dutchess-Putnam County,Month Ago,3.614,4.537,4.261,4.606
+NY,Dutchess-Putnam County,Year Ago,3.568,5.582,4.233,4.585
+NY,Elmira,Current,3.163,4.404,3.582,3.923
+NY,Elmira,Yesterday,3.172,4.39,3.6,3.937
+NY,Elmira,Week Ago,3.253,4.442,3.692,4.033
+NY,Elmira,Month Ago,3.402,4.495,3.785,4.142
+NY,Elmira,Year Ago,3.428,5.426,3.845,4.14
+NY,Glens Falls,Current,3.428,4.41,3.909,4.346
+NY,Glens Falls,Yesterday,3.437,4.425,3.943,4.353
+NY,Glens Falls,Week Ago,3.518,4.449,4.035,4.465
+NY,Glens Falls,Month Ago,3.692,4.485,4.183,4.626
+NY,Glens Falls,Year Ago,3.535,5.559,4.023,4.465
+NY,Ithaca,Current,3.481,4.572,3.937,4.339
+NY,Ithaca,Yesterday,3.498,4.575,3.928,4.355
+NY,Ithaca,Week Ago,3.548,4.633,3.982,4.41
+NY,Ithaca,Month Ago,3.65,4.673,4.04,4.465
+NY,Ithaca,Year Ago,3.645,5.67,4.112,4.418
+NY,Kingston,Current,3.23,4.311,3.809,4.221
+NY,Kingston,Yesterday,3.235,4.318,3.733,4.205
+NY,Kingston,Week Ago,3.297,4.343,3.827,4.238
+NY,Kingston,Month Ago,3.488,4.48,4.054,4.459
+NY,Kingston,Year Ago,3.463,5.477,3.934,4.305
+NY,Watertown-Fort Drum,Current,3.323,4.513,3.733,4.19
+NY,Watertown-Fort Drum,Yesterday,3.336,4.516,3.748,4.184
+NY,Watertown-Fort Drum,Week Ago,3.427,4.527,3.857,4.306
+NY,Watertown-Fort Drum,Month Ago,3.627,4.582,4.014,4.497
+NY,Watertown-Fort Drum,Year Ago,3.606,5.703,4.006,4.414
+NY,White Plains,Current,3.558,4.596,4.224,4.562
+NY,White Plains,Yesterday,3.568,4.618,4.236,4.58
+NY,White Plains,Week Ago,3.609,4.677,4.268,4.609
+NY,White Plains,Month Ago,3.711,4.749,4.354,4.719
+NY,White Plains,Year Ago,3.595,5.623,4.223,4.572
+NY,Batavia,Current,3.486,4.556,3.932,4.38
+NY,Batavia,Yesterday,3.5,4.582,3.946,4.362
+NY,Batavia,Week Ago,3.531,4.602,3.979,4.282
+NY,Batavia,Month Ago,3.633,4.683,4.188,4.53
+NY,Batavia,Year Ago,3.421,5.247,3.963,4.256

@@ -1,0 +1,41 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+MN,Rochester,Current,2.95,3.905,3.289,3.739
+MN,Rochester,Yesterday,2.951,3.938,3.309,3.747
+MN,Rochester,Week Ago,3.017,4.032,3.378,3.811
+MN,Rochester,Month Ago,3.166,4.429,3.426,3.965
+MN,Rochester,Year Ago,2.945,4.531,3.24,3.737
+MN,St. Cloud,Current,2.799,3.761,3.178,3.587
+MN,St. Cloud,Yesterday,2.82,3.822,3.227,3.587
+MN,St. Cloud,Week Ago,2.892,3.93,3.261,3.635
+MN,St. Cloud,Month Ago,3.045,4.371,3.364,3.783
+MN,St. Cloud,Year Ago,2.835,4.27,3.116,3.539
+MN,Duluth-Superior (MN only),Current,2.803,4.06,3.209,3.578
+MN,Duluth-Superior (MN only),Yesterday,2.81,4.078,3.207,3.581
+MN,Duluth-Superior (MN only),Week Ago,2.9,4.187,3.247,3.645
+MN,Duluth-Superior (MN only),Month Ago,3.123,4.512,3.512,3.883
+MN,Duluth-Superior (MN only),Year Ago,3.063,4.631,3.415,3.816
+MN,Minneapolis-St. Paul (MN only),Current,2.916,4.095,3.281,3.657
+MN,Minneapolis-St. Paul (MN only),Yesterday,2.925,4.108,3.289,3.667
+MN,Minneapolis-St. Paul (MN only),Week Ago,2.974,4.2,3.333,3.711
+MN,Minneapolis-St. Paul (MN only),Month Ago,3.23,4.479,3.583,3.977
+MN,Minneapolis-St. Paul (MN only),Year Ago,2.998,4.594,3.359,3.652
+MN,Houston County,Current,2.775,3.87,3.189,3.613
+MN,Houston County,Yesterday,2.775,3.872,3.189,3.592
+MN,Houston County,Week Ago,2.877,3.948,0.0,3.739
+MN,Houston County,Month Ago,3.179,4.212,0.0,4.075
+MN,Houston County,Year Ago,2.85,4.112,0.0,3.633
+MN,Mankato,Current,2.836,3.724,3.17,3.538
+MN,Mankato,Yesterday,2.859,3.756,3.145,3.541
+MN,Mankato,Week Ago,2.906,3.818,3.209,3.608
+MN,Mankato,Month Ago,3.2,4.093,3.469,3.909
+MN,Mankato,Year Ago,2.93,4.497,3.281,3.669
+MN,Moorhead,Current,2.988,4.062,3.235,3.717
+MN,Moorhead,Yesterday,2.987,4.07,3.239,3.664
+MN,Moorhead,Week Ago,2.99,4.186,3.24,3.688
+MN,Moorhead,Month Ago,3.211,4.353,3.469,3.87
+MN,Moorhead,Year Ago,3.051,4.435,3.307,3.814
+MN,Polk County,Current,2.875,3.89,3.132,3.754
+MN,Polk County,Yesterday,2.883,3.872,3.102,3.819
+MN,Polk County,Week Ago,2.937,3.942,3.169,3.632
+MN,Polk County,Month Ago,3.228,4.314,3.387,3.621
+MN,Polk County,Year Ago,2.985,4.48,3.519,3.966

@@ -1,0 +1,46 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+KY,Lexington,Current,2.739,3.833,3.296,3.641
+KY,Lexington,Yesterday,2.757,3.842,3.33,3.669
+KY,Lexington,Week Ago,2.857,3.903,3.393,3.746
+KY,Lexington,Month Ago,3.068,4.132,3.596,3.957
+KY,Lexington,Year Ago,2.852,4.875,3.342,3.713
+KY,Owensboro,Current,2.641,3.922,3.196,3.635
+KY,Owensboro,Yesterday,2.662,3.934,3.229,3.71
+KY,Owensboro,Week Ago,2.706,4.012,3.297,3.78
+KY,Owensboro,Month Ago,2.864,4.083,3.442,3.827
+KY,Owensboro,Year Ago,2.567,4.761,2.999,3.359
+KY,Huntington-Ashland (KY only),Current,2.9,3.97,3.409,3.849
+KY,Huntington-Ashland (KY only),Yesterday,2.94,3.983,3.458,3.919
+KY,Huntington-Ashland (KY only),Week Ago,2.98,4.053,3.491,3.983
+KY,Huntington-Ashland (KY only),Month Ago,3.112,4.33,3.667,4.091
+KY,Huntington-Ashland (KY only),Year Ago,3.076,5.094,3.557,3.938
+KY,Louisville (KY only),Current,2.759,3.793,3.237,3.662
+KY,Louisville (KY only),Yesterday,2.776,3.809,3.26,3.69
+KY,Louisville (KY only),Week Ago,2.869,3.871,3.353,3.777
+KY,Louisville (KY only),Month Ago,3.125,4.049,3.592,4.018
+KY,Louisville (KY only),Year Ago,3.127,4.677,3.589,3.899
+KY,Covington,Current,2.662,3.618,3.17,3.596
+KY,Covington,Yesterday,2.679,3.64,3.174,3.621
+KY,Covington,Week Ago,2.791,3.734,3.288,3.731
+KY,Covington,Month Ago,3.086,4.016,3.551,4.02
+KY,Covington,Year Ago,3.216,4.706,3.7,4.047
+KY,Bowling Green,Current,2.728,3.65,3.164,3.528
+KY,Bowling Green,Yesterday,2.745,3.677,3.191,3.529
+KY,Bowling Green,Week Ago,2.838,3.779,3.267,3.632
+KY,Bowling Green,Month Ago,2.998,3.996,3.425,3.753
+KY,Bowling Green,Year Ago,2.832,4.65,3.233,3.588
+KY,Elizabethtown-Fort Knox,Current,2.609,3.663,3.02,3.498
+KY,Elizabethtown-Fort Knox,Yesterday,2.617,3.681,3.002,3.521
+KY,Elizabethtown-Fort Knox,Week Ago,2.732,3.759,3.193,3.619
+KY,Elizabethtown-Fort Knox,Month Ago,2.944,3.943,3.413,3.798
+KY,Elizabethtown-Fort Knox,Year Ago,2.647,4.653,3.094,3.447
+KY,Henderson,Current,2.494,3.772,2.9,3.139
+KY,Henderson,Yesterday,2.499,3.772,2.937,3.198
+KY,Henderson,Week Ago,2.565,3.819,2.918,3.315
+KY,Henderson,Month Ago,2.901,3.886,3.197,3.597
+KY,Henderson,Year Ago,2.585,4.63,2.936,3.107
+KY,Hopkinsville,Current,2.754,3.869,3.181,3.515
+KY,Hopkinsville,Yesterday,2.767,3.874,3.192,3.525
+KY,Hopkinsville,Week Ago,2.784,3.913,3.256,3.575
+KY,Hopkinsville,Month Ago,2.912,4.089,3.344,3.712
+KY,Hopkinsville,Year Ago,2.787,4.477,3.227,3.616

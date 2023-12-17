@@ -1,0 +1,46 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+LA,Baton Rouge,Current,2.64,3.57,3.055,3.412
+LA,Baton Rouge,Yesterday,2.652,3.594,3.066,3.416
+LA,Baton Rouge,Week Ago,2.691,3.666,3.094,3.462
+LA,Baton Rouge,Month Ago,2.834,3.878,3.256,3.623
+LA,Baton Rouge,Year Ago,2.801,4.29,3.205,3.518
+LA,Lafayette,Current,2.703,3.617,3.072,3.464
+LA,Lafayette,Yesterday,2.715,3.618,3.076,3.456
+LA,Lafayette,Week Ago,2.741,3.703,3.081,3.483
+LA,Lafayette,Month Ago,2.91,3.892,3.278,3.67
+LA,Lafayette,Year Ago,2.735,4.318,3.087,3.438
+LA,Lake Charles,Current,2.74,3.594,3.202,3.558
+LA,Lake Charles,Yesterday,2.739,3.61,3.214,3.595
+LA,Lake Charles,Week Ago,2.799,3.687,3.239,3.604
+LA,Lake Charles,Month Ago,2.963,3.916,3.413,3.785
+LA,Lake Charles,Year Ago,2.8,4.232,3.227,3.555
+LA,New Orleans,Current,2.716,3.73,3.319,3.66
+LA,New Orleans,Yesterday,2.723,3.742,3.312,3.661
+LA,New Orleans,Week Ago,2.784,3.812,3.378,3.731
+LA,New Orleans,Month Ago,2.962,4.04,3.544,3.887
+LA,New Orleans,Year Ago,2.835,4.428,3.317,3.648
+LA,Shreveport-Bossier City,Current,2.573,3.458,2.952,3.308
+LA,Shreveport-Bossier City,Yesterday,2.588,3.455,2.974,3.336
+LA,Shreveport-Bossier City,Week Ago,2.623,3.536,2.987,3.336
+LA,Shreveport-Bossier City,Month Ago,2.789,3.75,3.142,3.5
+LA,Shreveport-Bossier City,Year Ago,2.671,4.137,3.047,3.372
+LA,Alexandria,Current,2.658,3.673,3.028,3.435
+LA,Alexandria,Yesterday,2.666,3.68,3.027,3.419
+LA,Alexandria,Week Ago,2.717,3.746,3.104,3.501
+LA,Alexandria,Month Ago,2.858,3.936,3.254,3.609
+LA,Alexandria,Year Ago,2.74,4.477,3.075,3.396
+LA,Hammond,Current,2.627,3.497,3.016,3.489
+LA,Hammond,Yesterday,2.636,3.498,3.033,3.48
+LA,Hammond,Week Ago,2.68,3.565,3.125,3.523
+LA,Hammond,Month Ago,2.898,3.926,3.331,3.709
+LA,Hammond,Year Ago,2.761,4.417,3.253,3.585
+LA,Houma-Thibodaux,Current,2.756,3.703,3.215,3.525
+LA,Houma-Thibodaux,Yesterday,2.733,3.725,3.19,3.547
+LA,Houma-Thibodaux,Week Ago,2.811,3.755,3.271,3.62
+LA,Houma-Thibodaux,Month Ago,2.94,3.904,3.397,3.673
+LA,Houma-Thibodaux,Year Ago,2.964,4.376,3.215,3.568
+LA,Monroe,Current,2.474,3.426,2.865,3.253
+LA,Monroe,Yesterday,2.477,3.453,2.866,3.252
+LA,Monroe,Week Ago,2.525,3.515,2.909,3.261
+LA,Monroe,Month Ago,2.691,3.736,3.078,3.428
+LA,Monroe,Year Ago,2.597,4.083,2.966,3.277

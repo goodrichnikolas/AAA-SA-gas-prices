@@ -1,0 +1,96 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+PA,Allentown-Bethlehem-Easton,Current,3.318,4.556,3.774,4.108
+PA,Allentown-Bethlehem-Easton,Yesterday,3.329,4.576,3.799,4.111
+PA,Allentown-Bethlehem-Easton,Week Ago,3.392,4.602,3.862,4.199
+PA,Allentown-Bethlehem-Easton,Month Ago,3.376,4.662,3.818,4.149
+PA,Allentown-Bethlehem-Easton,Year Ago,3.526,5.542,4.021,4.308
+PA,Erie,Current,3.401,4.676,3.73,4.058
+PA,Erie,Yesterday,3.42,4.685,3.727,4.066
+PA,Erie,Week Ago,3.485,4.691,3.783,4.157
+PA,Erie,Month Ago,3.683,4.716,3.931,4.285
+PA,Erie,Year Ago,3.845,5.854,4.107,4.448
+PA,Harrisburg,Current,3.469,4.619,3.83,4.155
+PA,Harrisburg,Yesterday,3.476,4.627,3.832,4.155
+PA,Harrisburg,Week Ago,3.527,4.66,3.879,4.213
+PA,Harrisburg,Month Ago,3.606,4.705,3.888,4.196
+PA,Harrisburg,Year Ago,3.729,5.779,4.05,4.271
+PA,Lancaster,Current,3.416,4.559,3.777,4.078
+PA,Lancaster,Yesterday,3.431,4.568,3.781,4.089
+PA,Lancaster,Week Ago,3.495,4.639,3.853,4.156
+PA,Lancaster,Month Ago,3.451,4.642,3.792,4.059
+PA,Lancaster,Year Ago,3.689,5.743,4.029,4.289
+PA,Pittsburgh,Current,3.495,4.637,3.895,4.255
+PA,Pittsburgh,Yesterday,3.504,4.643,3.905,4.268
+PA,Pittsburgh,Week Ago,3.563,4.668,3.969,4.324
+PA,Pittsburgh,Month Ago,3.704,4.716,4.056,4.355
+PA,Pittsburgh,Year Ago,3.788,5.83,4.125,4.398
+PA,Reading,Current,3.432,4.476,3.827,4.109
+PA,Reading,Yesterday,3.446,4.477,3.826,4.129
+PA,Reading,Week Ago,3.511,4.556,3.898,4.182
+PA,Reading,Month Ago,3.566,4.606,3.932,4.158
+PA,Reading,Year Ago,3.648,5.664,4.006,4.252
+PA,Scranton--Wilkes-Barre--Hazleton,Current,3.47,4.666,3.887,4.226
+PA,Scranton--Wilkes-Barre--Hazleton,Yesterday,3.475,4.687,3.897,4.257
+PA,Scranton--Wilkes-Barre--Hazleton,Week Ago,3.525,4.723,3.927,4.297
+PA,Scranton--Wilkes-Barre--Hazleton,Month Ago,3.596,4.758,3.975,4.337
+PA,Scranton--Wilkes-Barre--Hazleton,Year Ago,3.704,5.716,4.078,4.39
+PA,York,Current,3.487,4.633,3.81,4.118
+PA,York,Yesterday,3.492,4.636,3.811,4.126
+PA,York,Week Ago,3.547,4.68,3.874,4.187
+PA,York,Month Ago,3.696,4.714,3.995,4.292
+PA,York,Year Ago,3.82,5.785,4.088,4.319
+PA,Philadelphia (PA only),Current,3.413,4.531,3.934,4.182
+PA,Philadelphia (PA only),Yesterday,3.423,4.547,3.943,4.179
+PA,Philadelphia (PA only),Week Ago,3.482,4.604,3.992,4.242
+PA,Philadelphia (PA only),Month Ago,3.567,4.7,4.073,4.328
+PA,Philadelphia (PA only),Year Ago,3.574,5.598,4.102,4.343
+PA,Altoona,Current,3.341,4.613,3.666,3.942
+PA,Altoona,Yesterday,3.387,4.618,3.716,4.021
+PA,Altoona,Week Ago,3.488,4.656,3.822,4.114
+PA,Altoona,Month Ago,3.639,4.68,3.804,3.972
+PA,Altoona,Year Ago,3.8,5.827,3.908,3.986
+PA,Bloomsburg-Berwick,Current,3.414,4.429,3.823,4.172
+PA,Bloomsburg-Berwick,Yesterday,3.408,4.429,3.818,4.104
+PA,Bloomsburg-Berwick,Week Ago,3.452,4.437,3.819,4.158
+PA,Bloomsburg-Berwick,Month Ago,3.473,4.546,3.791,4.093
+PA,Bloomsburg-Berwick,Year Ago,3.706,5.69,4.129,4.454
+PA,Chambersburg-Waynesboro,Current,3.512,4.475,3.842,4.196
+PA,Chambersburg-Waynesboro,Yesterday,3.509,4.489,3.868,4.216
+PA,Chambersburg-Waynesboro,Week Ago,3.527,4.563,3.893,4.222
+PA,Chambersburg-Waynesboro,Month Ago,3.639,4.6,3.898,4.145
+PA,Chambersburg-Waynesboro,Year Ago,3.753,5.59,4.013,4.223
+PA,East Stroudsburg,Current,3.339,4.683,3.862,4.286
+PA,East Stroudsburg,Yesterday,3.344,4.695,3.931,4.277
+PA,East Stroudsburg,Week Ago,3.39,4.719,3.901,4.304
+PA,East Stroudsburg,Month Ago,3.462,4.769,3.957,4.285
+PA,East Stroudsburg,Year Ago,3.641,5.624,4.168,4.503
+PA,Gettysburg,Current,3.499,4.57,3.907,4.205
+PA,Gettysburg,Yesterday,3.527,4.591,3.914,4.211
+PA,Gettysburg,Week Ago,3.58,4.62,4.019,4.331
+PA,Gettysburg,Month Ago,3.758,4.638,4.066,4.319
+PA,Gettysburg,Year Ago,3.805,5.843,4.191,4.387
+PA,Johnstown,Current,3.369,4.63,3.689,3.978
+PA,Johnstown,Yesterday,3.391,4.639,3.712,3.999
+PA,Johnstown,Week Ago,3.483,4.676,3.818,4.099
+PA,Johnstown,Month Ago,3.725,4.72,3.902,4.035
+PA,Johnstown,Year Ago,3.823,5.821,3.921,3.903
+PA,Lebanon,Current,3.447,4.588,3.832,4.158
+PA,Lebanon,Yesterday,3.453,4.608,3.83,4.178
+PA,Lebanon,Week Ago,3.508,4.675,3.903,4.24
+PA,Lebanon,Month Ago,3.578,4.678,3.962,4.28
+PA,Lebanon,Year Ago,3.763,5.748,4.128,4.431
+PA,Mercer County,Current,3.399,4.517,3.811,4.104
+PA,Mercer County,Yesterday,3.402,4.555,3.843,4.095
+PA,Mercer County,Week Ago,3.493,4.61,3.922,4.184
+PA,Mercer County,Month Ago,3.719,4.713,3.982,4.267
+PA,Mercer County,Year Ago,3.841,5.819,4.044,4.242
+PA,State College,Current,3.498,4.629,3.874,4.185
+PA,State College,Yesterday,3.511,4.656,3.894,4.204
+PA,State College,Week Ago,3.548,4.679,3.92,4.218
+PA,State College,Month Ago,3.622,4.749,3.788,3.984
+PA,State College,Year Ago,3.817,5.704,3.969,4.08
+PA,Williamsport,Current,3.505,4.626,3.913,4.264
+PA,Williamsport,Yesterday,3.518,4.644,3.915,4.252
+PA,Williamsport,Week Ago,3.532,4.674,3.95,4.249
+PA,Williamsport,Month Ago,3.507,4.678,3.831,4.139
+PA,Williamsport,Year Ago,3.727,5.799,4.05,4.333

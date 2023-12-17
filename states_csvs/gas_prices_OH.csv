@@ -1,0 +1,71 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+OH,Akron,Current,2.704,3.926,3.15,3.596
+OH,Akron,Yesterday,2.73,3.947,3.183,3.632
+OH,Akron,Week Ago,2.866,4.031,3.301,3.749
+OH,Akron,Month Ago,3.153,4.323,3.591,4.026
+OH,Akron,Year Ago,2.857,5.25,3.29,3.638
+OH,Canton-Massillon,Current,2.646,3.813,3.077,3.554
+OH,Canton-Massillon,Yesterday,2.68,3.832,3.118,3.585
+OH,Canton-Massillon,Week Ago,2.846,3.935,3.273,3.751
+OH,Canton-Massillon,Month Ago,3.106,4.339,3.538,3.991
+OH,Canton-Massillon,Year Ago,2.864,4.956,3.299,3.727
+OH,Cleveland-Lorain-Elyria,Current,2.763,4.08,3.334,3.773
+OH,Cleveland-Lorain-Elyria,Yesterday,2.784,4.097,3.346,3.794
+OH,Cleveland-Lorain-Elyria,Week Ago,2.892,4.185,3.435,3.883
+OH,Cleveland-Lorain-Elyria,Month Ago,3.176,4.388,3.677,4.14
+OH,Cleveland-Lorain-Elyria,Year Ago,2.869,5.49,3.36,3.777
+OH,Columbus,Current,2.728,4.052,3.215,3.665
+OH,Columbus,Yesterday,2.754,4.07,3.239,3.689
+OH,Columbus,Week Ago,2.852,4.155,3.329,3.781
+OH,Columbus,Month Ago,3.206,4.414,3.665,4.11
+OH,Columbus,Year Ago,2.967,5.37,3.419,3.795
+OH,Dayton,Current,2.558,4.059,3.108,3.574
+OH,Dayton,Yesterday,2.578,4.079,3.129,3.596
+OH,Dayton,Week Ago,2.695,4.154,3.232,3.705
+OH,Dayton,Month Ago,3.173,4.396,3.699,4.173
+OH,Dayton,Year Ago,2.763,5.216,3.252,3.697
+OH,Toledo,Current,2.696,3.986,3.177,3.63
+OH,Toledo,Yesterday,2.709,3.995,3.197,3.65
+OH,Toledo,Week Ago,2.809,4.074,3.288,3.748
+OH,Toledo,Month Ago,3.2,4.333,3.661,4.116
+OH,Toledo,Year Ago,3.072,5.388,3.518,3.918
+OH,Youngstown-Warren,Current,2.733,3.915,3.262,3.717
+OH,Youngstown-Warren,Yesterday,2.747,3.925,3.271,3.737
+OH,Youngstown-Warren,Week Ago,2.843,4.016,3.358,3.809
+OH,Youngstown-Warren,Month Ago,3.118,4.304,3.604,4.044
+OH,Youngstown-Warren,Year Ago,2.852,5.481,3.319,3.715
+OH,Cincinnati (OH only),Current,2.772,4.181,3.272,3.767
+OH,Cincinnati (OH only),Yesterday,2.789,4.186,3.291,3.788
+OH,Cincinnati (OH only),Week Ago,2.863,4.248,3.366,3.863
+OH,Cincinnati (OH only),Month Ago,3.207,4.428,3.701,4.2
+OH,Cincinnati (OH only),Year Ago,3.209,5.29,3.639,4.027
+OH,Belmont County,Current,2.686,3.842,3.151,3.638
+OH,Belmont County,Yesterday,2.683,3.825,3.154,3.652
+OH,Belmont County,Week Ago,2.825,3.94,3.328,3.773
+OH,Belmont County,Month Ago,3.069,4.207,3.576,4.024
+OH,Belmont County,Year Ago,3.013,5.12,3.534,3.853
+OH,Lawerence County,Current,2.908,4.12,3.422,3.882
+OH,Lawerence County,Yesterday,2.929,4.114,3.445,3.907
+OH,Lawerence County,Week Ago,2.986,4.13,3.507,3.968
+OH,Lawerence County,Month Ago,3.239,4.417,3.752,4.252
+OH,Lawerence County,Year Ago,2.99,5.168,3.481,3.975
+OH,Lima,Current,2.59,3.799,3.106,3.59
+OH,Lima,Yesterday,2.604,3.803,3.128,3.559
+OH,Lima,Week Ago,2.729,3.939,3.236,3.768
+OH,Lima,Month Ago,3.142,4.285,3.656,4.112
+OH,Lima,Year Ago,2.78,4.7,3.316,3.81
+OH,Mansfield,Current,2.569,3.936,3.013,3.485
+OH,Mansfield,Yesterday,2.579,3.977,3.04,3.508
+OH,Mansfield,Week Ago,2.708,4.086,3.156,3.647
+OH,Mansfield,Month Ago,3.186,4.4,3.68,4.116
+OH,Mansfield,Year Ago,3.145,5.128,3.585,4.047
+OH,Springfield,Current,2.595,3.949,3.105,3.55
+OH,Springfield,Yesterday,2.601,3.95,3.11,3.55
+OH,Springfield,Week Ago,2.734,4.085,3.229,3.666
+OH,Springfield,Month Ago,3.174,4.369,3.659,4.093
+OH,Springfield,Year Ago,2.753,5.06,3.229,3.59
+OH,Steubenville-Weirton (OH only),Current,2.744,4.071,3.228,3.699
+OH,Steubenville-Weirton (OH only),Yesterday,2.776,4.108,3.242,3.65
+OH,Steubenville-Weirton (OH only),Week Ago,2.898,4.139,3.342,3.718
+OH,Steubenville-Weirton (OH only),Month Ago,3.175,4.374,3.582,3.989
+OH,Steubenville-Weirton (OH only),Year Ago,2.97,5.349,3.467,3.84

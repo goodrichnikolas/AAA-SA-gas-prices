@@ -1,0 +1,56 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+WV,Charleston,Current,3.071,3.99,3.453,3.851
+WV,Charleston,Yesterday,3.085,4.006,3.466,3.846
+WV,Charleston,Week Ago,3.182,4.074,3.564,3.925
+WV,Charleston,Month Ago,3.339,4.205,3.715,4.098
+WV,Charleston,Year Ago,3.127,5.334,3.419,3.731
+WV,Parkersburg-Marietta (WV only),Current,3.006,3.88,3.409,3.812
+WV,Parkersburg-Marietta (WV only),Yesterday,3.014,3.891,3.418,3.82
+WV,Parkersburg-Marietta (WV only),Week Ago,3.081,4.06,3.484,3.874
+WV,Parkersburg-Marietta (WV only),Month Ago,3.087,4.271,3.522,3.879
+WV,Parkersburg-Marietta (WV only),Year Ago,3.033,5.279,3.385,3.716
+WV,Steubenville-Weirton (WV only),Current,2.791,3.995,3.209,3.62
+WV,Steubenville-Weirton (WV only),Yesterday,2.813,4.003,3.267,3.674
+WV,Steubenville-Weirton (WV only),Week Ago,3.011,4.077,3.455,3.875
+WV,Steubenville-Weirton (WV only),Month Ago,3.102,4.094,3.512,3.913
+WV,Steubenville-Weirton (WV only),Year Ago,3.048,5.34,3.4,3.767
+WV,Wheeling (WV only),Current,2.838,3.891,3.261,3.691
+WV,Wheeling (WV only),Yesterday,2.878,3.906,3.304,3.691
+WV,Wheeling (WV only),Week Ago,3.017,4.004,3.449,3.864
+WV,Wheeling (WV only),Month Ago,3.045,4.042,3.44,3.841
+WV,Wheeling (WV only),Year Ago,2.971,5.301,3.35,3.653
+WV,Beckley,Current,3.127,4.061,3.426,3.757
+WV,Beckley,Yesterday,3.135,4.065,3.425,3.753
+WV,Beckley,Week Ago,3.175,4.139,3.499,3.834
+WV,Beckley,Month Ago,3.345,4.307,3.66,3.952
+WV,Beckley,Year Ago,3.32,5.565,3.581,3.87
+WV,Hampshire County,Current,3.266,3.943,3.539,3.749
+WV,Hampshire County,Yesterday,3.274,4.0,3.599,3.866
+WV,Hampshire County,Week Ago,3.362,4.13,3.719,3.979
+WV,Hampshire County,Month Ago,3.549,4.263,3.766,4.159
+WV,Hampshire County,Year Ago,3.602,5.354,3.439,3.994
+WV,Huntington,Current,2.933,4.019,3.291,3.63
+WV,Huntington,Yesterday,2.949,4.01,3.332,3.653
+WV,Huntington,Week Ago,3.019,4.133,3.425,3.748
+WV,Huntington,Month Ago,3.175,4.258,3.539,3.875
+WV,Huntington,Year Ago,3.043,5.325,3.368,3.601
+WV,Jefferson County,Current,3.119,3.979,3.541,3.871
+WV,Jefferson County,Yesterday,3.187,3.979,3.568,3.886
+WV,Jefferson County,Week Ago,3.26,4.003,3.67,3.987
+WV,Jefferson County,Month Ago,3.247,4.083,3.65,3.979
+WV,Jefferson County,Year Ago,3.358,5.241,3.713,3.979
+WV,Mineral County,Current,3.189,4.129,3.649,3.749
+WV,Mineral County,Yesterday,3.24,4.199,3.652,3.779
+WV,Mineral County,Week Ago,3.268,4.186,3.499,3.792
+WV,Mineral County,Month Ago,3.309,4.171,3.512,3.817
+WV,Mineral County,Year Ago,3.542,5.564,3.847,3.879
+WV,Morgantown,Current,3.103,4.039,3.42,3.801
+WV,Morgantown,Yesterday,3.128,4.053,3.484,3.811
+WV,Morgantown,Week Ago,3.236,4.165,3.609,3.938
+WV,Morgantown,Month Ago,3.207,4.147,3.556,3.909
+WV,Morgantown,Year Ago,3.329,5.476,3.568,3.84
+WV,"Washington, DC (WV Only)",Current,3.122,4.077,3.484,3.841
+WV,"Washington, DC (WV Only)",Yesterday,3.137,4.099,3.506,3.855
+WV,"Washington, DC (WV Only)",Week Ago,3.234,4.134,3.57,3.939
+WV,"Washington, DC (WV Only)",Month Ago,3.08,4.084,3.462,3.816
+WV,"Washington, DC (WV Only)",Year Ago,3.308,5.056,3.601,3.771

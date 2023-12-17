@@ -1,0 +1,46 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+IA,Cedar Rapids,Current,2.735,3.768,3.085,3.59
+IA,Cedar Rapids,Yesterday,2.76,3.794,3.111,3.62
+IA,Cedar Rapids,Week Ago,2.808,3.949,3.178,3.658
+IA,Cedar Rapids,Month Ago,2.946,4.206,3.322,3.776
+IA,Cedar Rapids,Year Ago,2.989,4.494,3.301,3.779
+IA,Des Moines,Current,2.773,3.722,3.138,3.527
+IA,Des Moines,Yesterday,2.803,3.737,3.169,3.551
+IA,Des Moines,Week Ago,2.739,3.826,3.149,3.475
+IA,Des Moines,Month Ago,2.96,4.217,3.364,3.714
+IA,Des Moines,Year Ago,2.716,4.241,2.991,3.443
+IA,Waterloo-Cedar Falls,Current,2.794,3.798,3.092,3.649
+IA,Waterloo-Cedar Falls,Yesterday,2.816,3.848,3.163,3.681
+IA,Waterloo-Cedar Falls,Week Ago,2.838,4.002,3.224,3.661
+IA,Waterloo-Cedar Falls,Month Ago,2.96,4.239,3.318,3.825
+IA,Waterloo-Cedar Falls,Year Ago,2.861,4.563,3.159,3.626
+IA,Davenport-Moline-Rock Island (IA only),Current,2.742,3.934,3.204,3.675
+IA,Davenport-Moline-Rock Island (IA only),Yesterday,2.769,3.943,3.234,3.692
+IA,Davenport-Moline-Rock Island (IA only),Week Ago,2.814,4.044,3.235,3.731
+IA,Davenport-Moline-Rock Island (IA only),Month Ago,2.968,4.301,3.39,3.872
+IA,Davenport-Moline-Rock Island (IA only),Year Ago,2.696,4.535,3.043,3.548
+IA,Sioux City (IA only),Current,2.676,3.822,3.025,3.448
+IA,Sioux City (IA only),Yesterday,2.696,3.836,2.97,3.464
+IA,Sioux City (IA only),Week Ago,2.771,3.962,3.075,3.518
+IA,Sioux City (IA only),Month Ago,2.962,4.218,3.243,3.741
+IA,Sioux City (IA only),Year Ago,2.941,4.526,3.244,3.662
+IA,Ames,Current,2.885,3.615,3.284,3.613
+IA,Ames,Yesterday,2.908,3.635,3.209,3.645
+IA,Ames,Week Ago,2.945,3.756,3.231,3.722
+IA,Ames,Month Ago,3.093,4.162,3.452,3.806
+IA,Ames,Year Ago,2.993,4.16,3.477,3.63
+IA,Council Bluffs,Current,2.703,3.739,2.926,3.52
+IA,Council Bluffs,Yesterday,2.706,3.763,2.951,3.509
+IA,Council Bluffs,Week Ago,2.761,3.86,3.005,3.54
+IA,Council Bluffs,Month Ago,3.047,4.326,3.327,3.825
+IA,Council Bluffs,Year Ago,2.854,4.495,3.064,3.647
+IA,Dubuque,Current,2.951,3.885,3.395,4.004
+IA,Dubuque,Yesterday,2.997,3.936,3.325,4.038
+IA,Dubuque,Week Ago,2.97,4.03,3.433,4.041
+IA,Dubuque,Month Ago,3.24,4.258,3.646,4.264
+IA,Dubuque,Year Ago,2.993,4.279,3.337,3.913
+IA,Iowa City,Current,2.864,3.78,3.438,3.704
+IA,Iowa City,Yesterday,2.877,3.83,3.378,3.704
+IA,Iowa City,Week Ago,2.911,3.916,3.463,3.746
+IA,Iowa City,Month Ago,3.102,4.285,3.54,3.921
+IA,Iowa City,Year Ago,3.124,4.499,3.44,3.847

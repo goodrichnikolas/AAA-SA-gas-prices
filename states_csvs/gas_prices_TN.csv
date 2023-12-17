@@ -1,0 +1,51 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+TN,Knoxville,Current,2.745,3.745,3.115,3.506
+TN,Knoxville,Yesterday,2.757,3.741,3.136,3.522
+TN,Knoxville,Week Ago,2.805,3.822,3.172,3.555
+TN,Knoxville,Month Ago,2.958,3.982,3.345,3.696
+TN,Knoxville,Year Ago,2.925,4.79,3.28,3.632
+TN,Nashville,Current,2.802,3.799,3.236,3.621
+TN,Nashville,Yesterday,2.824,3.81,3.262,3.64
+TN,Nashville,Week Ago,2.848,3.886,3.277,3.652
+TN,Nashville,Month Ago,3.038,4.073,3.478,3.851
+TN,Nashville,Year Ago,2.687,4.378,3.091,3.458
+TN,Chattanooga (TN only),Current,2.655,3.603,3.003,3.343
+TN,Chattanooga (TN only),Yesterday,2.67,3.612,3.025,3.41
+TN,Chattanooga (TN only),Week Ago,2.667,3.673,3.015,3.368
+TN,Chattanooga (TN only),Month Ago,2.846,3.839,3.239,3.572
+TN,Chattanooga (TN only),Year Ago,2.722,4.485,3.096,3.412
+TN,Clarksville-Hopkinsville (TN only),Current,2.723,3.782,3.131,3.457
+TN,Clarksville-Hopkinsville (TN only),Yesterday,2.763,3.79,3.118,3.483
+TN,Clarksville-Hopkinsville (TN only),Week Ago,2.744,3.815,3.122,3.447
+TN,Clarksville-Hopkinsville (TN only),Month Ago,2.962,4.032,3.366,3.671
+TN,Clarksville-Hopkinsville (TN only),Year Ago,2.655,4.308,3.039,3.364
+TN,Johnson City,Current,2.761,3.892,3.171,3.599
+TN,Johnson City,Yesterday,2.768,3.899,3.179,3.601
+TN,Johnson City,Week Ago,2.822,3.966,3.22,3.639
+TN,Johnson City,Month Ago,2.958,4.102,3.306,3.743
+TN,Johnson City,Year Ago,2.78,4.705,3.106,3.407
+TN,Memphis (TN only),Current,2.828,3.982,3.31,3.686
+TN,Memphis (TN only),Yesterday,2.841,4.001,3.311,3.683
+TN,Memphis (TN only),Week Ago,2.885,4.045,3.319,3.736
+TN,Memphis (TN only),Month Ago,2.989,4.188,3.489,3.837
+TN,Memphis (TN only),Year Ago,2.887,4.652,3.353,3.67
+TN,Cleveland,Current,2.695,3.797,3.084,3.448
+TN,Cleveland,Yesterday,2.728,3.82,3.121,3.485
+TN,Cleveland,Week Ago,2.741,3.938,3.122,3.511
+TN,Cleveland,Month Ago,2.935,4.101,3.338,3.72
+TN,Cleveland,Year Ago,2.67,4.561,3.02,3.354
+TN,Jackson,Current,2.842,3.902,3.259,3.634
+TN,Jackson,Yesterday,2.849,3.906,3.258,3.655
+TN,Jackson,Week Ago,2.899,3.947,3.354,3.645
+TN,Jackson,Month Ago,2.994,4.25,3.5,3.746
+TN,Jackson,Year Ago,2.907,4.719,3.394,3.823
+TN,Kingsport-Bristol,Current,2.715,3.866,3.109,3.477
+TN,Kingsport-Bristol,Yesterday,2.728,3.88,3.127,3.491
+TN,Kingsport-Bristol,Week Ago,2.804,3.924,3.183,3.546
+TN,Kingsport-Bristol,Month Ago,2.916,4.131,3.319,3.68
+TN,Kingsport-Bristol,Year Ago,2.806,4.713,3.182,3.496
+TN,Morristown,Current,2.761,3.816,3.147,3.563
+TN,Morristown,Yesterday,2.759,3.838,3.167,3.582
+TN,Morristown,Week Ago,2.806,3.916,3.253,3.649
+TN,Morristown,Month Ago,3.019,4.058,3.408,3.835
+TN,Morristown,Year Ago,2.962,4.839,3.356,3.718

@@ -1,0 +1,71 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+WA,Bellingham,Current,3.965,4.629,4.292,4.52
+WA,Bellingham,Yesterday,3.979,4.673,4.29,4.492
+WA,Bellingham,Week Ago,4.032,4.699,4.345,4.537
+WA,Bellingham,Month Ago,4.162,4.916,4.548,4.762
+WA,Bellingham,Year Ago,3.532,4.705,3.817,4.048
+WA,Bremerton,Current,4.142,4.936,4.386,4.616
+WA,Bremerton,Yesterday,4.16,4.953,4.405,4.625
+WA,Bremerton,Week Ago,4.21,5.022,4.482,4.697
+WA,Bremerton,Month Ago,4.487,5.249,4.742,4.95
+WA,Bremerton,Year Ago,3.87,5.036,4.093,4.303
+WA,Olympia,Current,4.248,5.187,4.424,4.621
+WA,Olympia,Yesterday,4.239,5.22,4.407,4.635
+WA,Olympia,Week Ago,4.334,5.29,4.5,4.723
+WA,Olympia,Month Ago,4.513,5.458,4.618,4.881
+WA,Olympia,Year Ago,4.109,5.32,4.309,4.544
+WA,Richland-Kennewick-Pasco,Current,4.015,4.9,4.271,4.495
+WA,Richland-Kennewick-Pasco,Yesterday,3.997,4.904,4.27,4.482
+WA,Richland-Kennewick-Pasco,Week Ago,4.076,4.97,4.319,4.551
+WA,Richland-Kennewick-Pasco,Month Ago,4.335,5.147,4.554,4.79
+WA,Richland-Kennewick-Pasco,Year Ago,3.797,5.269,4.111,4.323
+WA,Seattle-Bellevue-Everett,Current,4.469,5.278,4.704,4.899
+WA,Seattle-Bellevue-Everett,Yesterday,4.478,5.301,4.719,4.918
+WA,Seattle-Bellevue-Everett,Week Ago,4.526,5.351,4.771,4.958
+WA,Seattle-Bellevue-Everett,Month Ago,4.7,5.487,4.945,5.136
+WA,Seattle-Bellevue-Everett,Year Ago,4.276,5.356,4.52,4.689
+WA,Spokane,Current,3.897,4.724,4.188,4.38
+WA,Spokane,Yesterday,3.926,4.735,4.208,4.413
+WA,Spokane,Week Ago,4.008,4.823,4.284,4.51
+WA,Spokane,Month Ago,4.291,5.002,4.541,4.755
+WA,Spokane,Year Ago,3.759,5.007,3.998,4.213
+WA,Tacoma,Current,4.138,5.095,4.33,4.573
+WA,Tacoma,Yesterday,4.162,5.096,4.349,4.585
+WA,Tacoma,Week Ago,4.208,5.167,4.399,4.611
+WA,Tacoma,Month Ago,4.397,5.364,4.617,4.833
+WA,Tacoma,Year Ago,3.983,5.285,4.216,4.413
+WA,Yakima,Current,3.934,4.779,4.17,4.378
+WA,Yakima,Yesterday,3.929,4.794,4.177,4.422
+WA,Yakima,Week Ago,3.978,4.894,4.256,4.448
+WA,Yakima,Month Ago,4.106,4.961,4.544,4.628
+WA,Yakima,Year Ago,3.692,5.056,4.221,4.249
+WA,Vancouver,Current,4.227,4.833,4.478,4.625
+WA,Vancouver,Yesterday,4.239,4.848,4.466,4.639
+WA,Vancouver,Week Ago,4.282,4.896,4.474,4.706
+WA,Vancouver,Month Ago,4.528,5.094,4.713,4.939
+WA,Vancouver,Year Ago,3.892,5.023,4.098,4.279
+WA,Clarkson,Current,3.756,4.474,0.0,4.254
+WA,Clarkson,Yesterday,3.822,4.199,0.0,4.254
+WA,Clarkson,Week Ago,4.019,4.604,3.999,4.294
+WA,Clarkson,Month Ago,4.002,4.669,4.349,4.502
+WA,Clarkson,Year Ago,3.767,4.979,4.006,4.172
+WA,Longview,Current,4.112,4.968,4.286,4.473
+WA,Longview,Yesterday,4.109,5.039,4.321,4.499
+WA,Longview,Week Ago,4.156,5.079,4.271,4.581
+WA,Longview,Month Ago,4.356,5.262,4.563,4.731
+WA,Longview,Year Ago,4.014,5.376,4.195,4.387
+WA,Mount Vernon-Anacortes,Current,3.912,4.703,4.158,4.334
+WA,Mount Vernon-Anacortes,Yesterday,3.894,4.699,4.13,4.363
+WA,Mount Vernon-Anacortes,Week Ago,3.965,4.784,4.17,4.321
+WA,Mount Vernon-Anacortes,Month Ago,4.066,4.85,4.351,4.471
+WA,Mount Vernon-Anacortes,Year Ago,3.437,4.579,3.686,3.816
+WA,Walla Walla,Current,4.419,5.1,4.671,4.828
+WA,Walla Walla,Yesterday,4.405,5.07,4.689,4.846
+WA,Walla Walla,Week Ago,4.481,5.117,4.872,5.084
+WA,Walla Walla,Month Ago,4.663,5.335,4.989,5.236
+WA,Walla Walla,Year Ago,3.935,5.446,4.436,4.352
+WA,Wenatchee,Current,3.921,4.566,4.026,4.213
+WA,Wenatchee,Yesterday,3.896,4.592,4.045,4.181
+WA,Wenatchee,Week Ago,3.962,4.675,4.016,4.324
+WA,Wenatchee,Month Ago,4.083,4.833,4.162,4.379
+WA,Wenatchee,Year Ago,3.606,4.921,3.741,3.952

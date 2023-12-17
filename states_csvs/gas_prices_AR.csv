@@ -1,0 +1,41 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+AR,Fayetteville-Springdale-Rogers,Current,2.521,3.561,2.893,3.211
+AR,Fayetteville-Springdale-Rogers,Yesterday,2.528,3.579,2.89,3.223
+AR,Fayetteville-Springdale-Rogers,Week Ago,2.602,3.69,2.961,3.253
+AR,Fayetteville-Springdale-Rogers,Month Ago,2.859,4.087,3.188,3.545
+AR,Fayetteville-Springdale-Rogers,Year Ago,2.636,4.171,2.972,3.302
+AR,Little Rock-North Little Rock,Current,2.662,3.683,3.069,3.465
+AR,Little Rock-North Little Rock,Yesterday,2.668,3.693,3.096,3.481
+AR,Little Rock-North Little Rock,Week Ago,2.728,3.753,3.137,3.535
+AR,Little Rock-North Little Rock,Month Ago,2.921,3.952,3.344,3.713
+AR,Little Rock-North Little Rock,Year Ago,2.706,4.191,3.076,3.388
+AR,Pine Bluff,Current,2.785,3.716,3.275,3.708
+AR,Pine Bluff,Yesterday,2.804,3.753,3.263,3.642
+AR,Pine Bluff,Week Ago,2.856,3.772,3.345,3.784
+AR,Pine Bluff,Month Ago,3.024,4.036,3.444,3.903
+AR,Pine Bluff,Year Ago,2.723,4.285,3.145,3.569
+AR,Fort Smith (AR only),Current,2.635,3.773,3.018,3.406
+AR,Fort Smith (AR only),Yesterday,2.652,3.791,3.035,3.443
+AR,Fort Smith (AR only),Week Ago,2.729,3.89,3.151,3.487
+AR,Fort Smith (AR only),Month Ago,2.949,4.157,3.408,3.706
+AR,Fort Smith (AR only),Year Ago,2.697,4.329,3.034,3.381
+AR,Texarkana (AR only),Current,2.691,3.583,3.062,3.443
+AR,Texarkana (AR only),Yesterday,2.693,3.623,3.042,3.436
+AR,Texarkana (AR only),Week Ago,2.737,3.589,3.069,3.461
+AR,Texarkana (AR only),Month Ago,2.849,3.93,3.197,3.538
+AR,Texarkana (AR only),Year Ago,2.709,4.396,3.055,3.427
+AR,Hot Springs,Current,2.645,3.73,3.127,3.44
+AR,Hot Springs,Yesterday,2.631,3.747,3.099,3.441
+AR,Hot Springs,Week Ago,2.682,3.808,3.101,3.491
+AR,Hot Springs,Month Ago,2.864,4.007,3.32,3.682
+AR,Hot Springs,Year Ago,2.731,4.189,3.061,3.436
+AR,Jonesboro,Current,2.595,3.803,3.026,3.479
+AR,Jonesboro,Yesterday,2.613,3.835,3.051,3.422
+AR,Jonesboro,Week Ago,2.684,3.882,3.138,3.484
+AR,Jonesboro,Month Ago,2.837,4.125,3.204,3.601
+AR,Jonesboro,Year Ago,2.62,4.363,2.988,3.346
+AR,West Memphis,Current,2.689,3.487,3.105,3.452
+AR,West Memphis,Yesterday,2.7,3.512,3.075,3.466
+AR,West Memphis,Week Ago,2.799,3.701,3.204,3.591
+AR,West Memphis,Month Ago,2.896,3.848,3.181,3.678
+AR,West Memphis,Year Ago,2.762,4.538,3.166,3.596

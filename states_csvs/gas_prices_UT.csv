@@ -1,0 +1,26 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+UT,Provo-Orem,Current,2.833,3.872,3.075,3.283
+UT,Provo-Orem,Yesterday,2.843,3.879,3.091,3.297
+UT,Provo-Orem,Week Ago,2.85,3.918,3.087,3.301
+UT,Provo-Orem,Month Ago,3.346,4.262,3.578,3.793
+UT,Provo-Orem,Year Ago,3.394,5.202,3.642,3.808
+UT,Salt Lake City,Current,2.835,3.881,3.088,3.305
+UT,Salt Lake City,Yesterday,2.852,3.889,3.11,3.315
+UT,Salt Lake City,Week Ago,2.822,3.954,3.078,3.296
+UT,Salt Lake City,Month Ago,3.286,4.287,3.547,3.76
+UT,Salt Lake City,Year Ago,3.541,5.364,3.807,3.957
+UT,Logan,Current,2.869,3.949,3.084,3.284
+UT,Logan,Yesterday,2.876,3.955,3.09,3.258
+UT,Logan,Week Ago,2.947,3.982,3.159,3.352
+UT,Logan,Month Ago,3.608,4.331,3.821,4.022
+UT,Logan,Year Ago,3.591,5.352,3.825,3.987
+UT,Ogden,Current,2.836,3.901,3.095,3.308
+UT,Ogden,Yesterday,2.852,3.902,3.113,3.324
+UT,Ogden,Week Ago,2.901,3.949,3.157,3.382
+UT,Ogden,Month Ago,3.41,4.243,3.662,3.86
+UT,Ogden,Year Ago,3.474,5.292,3.741,3.926
+UT,St. George,Current,3.314,3.985,3.519,3.731
+UT,St. George,Yesterday,3.325,4.0,3.539,3.733
+UT,St. George,Week Ago,3.385,4.058,3.592,3.788
+UT,St. George,Month Ago,3.754,4.386,4.0,4.195
+UT,St. George,Year Ago,3.799,5.317,3.976,4.223

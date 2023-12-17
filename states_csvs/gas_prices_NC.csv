@@ -1,0 +1,76 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+NC,Asheville,Current,3.113,4.077,3.56,3.943
+NC,Asheville,Yesterday,3.115,4.092,3.581,3.949
+NC,Asheville,Week Ago,3.173,4.125,3.623,3.983
+NC,Asheville,Month Ago,3.29,4.243,3.733,4.096
+NC,Asheville,Year Ago,3.157,4.892,3.572,3.938
+NC,Fayetteville,Current,2.82,3.783,3.235,3.641
+NC,Fayetteville,Yesterday,2.828,3.78,3.219,3.647
+NC,Fayetteville,Week Ago,2.906,3.863,3.319,3.723
+NC,Fayetteville,Month Ago,2.997,3.994,3.381,3.791
+NC,Fayetteville,Year Ago,2.876,4.754,3.228,3.531
+NC,Greensboro,Current,2.913,3.977,3.346,3.707
+NC,Greensboro,Yesterday,2.922,3.991,3.348,3.72
+NC,Greensboro,Week Ago,2.979,4.054,3.413,3.787
+NC,Greensboro,Month Ago,3.034,4.138,3.473,3.859
+NC,Greensboro,Year Ago,2.949,4.861,3.308,3.575
+NC,Raleigh,Current,2.883,3.998,3.299,3.66
+NC,Raleigh,Yesterday,2.893,4.0,3.309,3.669
+NC,Raleigh,Week Ago,2.983,4.076,3.414,3.759
+NC,Raleigh,Month Ago,3.033,4.154,3.454,3.801
+NC,Raleigh,Year Ago,3.011,4.932,3.363,3.643
+NC,Wilmington,Current,2.91,3.979,3.354,3.733
+NC,Wilmington,Yesterday,2.915,3.99,3.356,3.73
+NC,Wilmington,Week Ago,2.957,4.009,3.398,3.786
+NC,Wilmington,Month Ago,3.03,4.041,3.464,3.865
+NC,Wilmington,Year Ago,2.96,4.883,3.357,3.682
+NC,Charlotte-Gastonia-Rock Hill (NC only),Current,2.902,3.976,3.345,3.71
+NC,Charlotte-Gastonia-Rock Hill (NC only),Yesterday,2.917,3.991,3.357,3.718
+NC,Charlotte-Gastonia-Rock Hill (NC only),Week Ago,2.978,4.05,3.414,3.782
+NC,Charlotte-Gastonia-Rock Hill (NC only),Month Ago,3.028,4.139,3.463,3.822
+NC,Charlotte-Gastonia-Rock Hill (NC only),Year Ago,3.006,4.833,3.424,3.756
+NC,Burlington,Current,2.883,4.0,3.3,3.738
+NC,Burlington,Yesterday,2.895,4.026,3.332,3.723
+NC,Burlington,Week Ago,2.967,4.065,3.387,3.759
+NC,Burlington,Month Ago,3.032,4.154,3.477,3.809
+NC,Burlington,Year Ago,3.077,4.971,3.467,3.817
+NC,Durham-Chapel Hill,Current,3.007,4.085,3.445,3.814
+NC,Durham-Chapel Hill,Yesterday,3.021,4.088,3.461,3.83
+NC,Durham-Chapel Hill,Week Ago,3.087,4.153,3.526,3.886
+NC,Durham-Chapel Hill,Month Ago,3.167,4.216,3.59,3.948
+NC,Durham-Chapel Hill,Year Ago,3.163,4.893,3.57,3.891
+NC,Goldsboro,Current,2.842,4.068,3.368,3.772
+NC,Goldsboro,Yesterday,2.849,4.111,3.39,3.787
+NC,Goldsboro,Week Ago,2.935,4.061,3.475,3.836
+NC,Goldsboro,Month Ago,3.002,4.155,3.473,3.88
+NC,Goldsboro,Year Ago,2.866,4.926,3.152,3.48
+NC,Hickory-Lenoir-Morganton,Current,2.859,3.9,3.301,3.726
+NC,Hickory-Lenoir-Morganton,Yesterday,2.865,3.902,3.297,3.71
+NC,Hickory-Lenoir-Morganton,Week Ago,2.92,3.972,3.364,3.755
+NC,Hickory-Lenoir-Morganton,Month Ago,2.995,4.124,3.425,3.798
+NC,Hickory-Lenoir-Morganton,Year Ago,2.851,4.881,3.232,3.63
+NC,Jacksonville,Current,2.867,3.923,3.253,3.676
+NC,Jacksonville,Yesterday,2.881,3.923,3.279,3.702
+NC,Jacksonville,Week Ago,2.945,3.954,3.356,3.758
+NC,Jacksonville,Month Ago,3.024,4.031,3.395,3.819
+NC,Jacksonville,Year Ago,2.8,4.541,3.202,3.532
+NC,New Bern,Current,2.749,3.93,3.171,3.563
+NC,New Bern,Yesterday,2.766,3.934,3.192,3.606
+NC,New Bern,Week Ago,2.834,3.99,3.258,3.684
+NC,New Bern,Month Ago,3.01,4.065,3.414,3.811
+NC,New Bern,Year Ago,2.873,4.892,3.226,3.587
+NC,Norfolk-Virginia Beach-Newport News,Current,2.925,3.87,3.333,3.648
+NC,Norfolk-Virginia Beach-Newport News,Yesterday,2.925,3.895,3.302,3.66
+NC,Norfolk-Virginia Beach-Newport News,Week Ago,2.923,3.977,3.408,3.793
+NC,Norfolk-Virginia Beach-Newport News,Month Ago,3.099,4.107,3.464,3.839
+NC,Norfolk-Virginia Beach-Newport News,Year Ago,3.013,4.868,3.541,4.023
+NC,Rocky Mount,Current,2.816,3.891,3.251,3.602
+NC,Rocky Mount,Yesterday,2.829,3.893,3.248,3.614
+NC,Rocky Mount,Week Ago,2.915,3.942,3.352,3.673
+NC,Rocky Mount,Month Ago,3.02,4.054,3.414,3.786
+NC,Rocky Mount,Year Ago,2.866,4.911,3.253,3.515
+NC,Winston-Salem,Current,2.869,3.953,3.329,3.704
+NC,Winston-Salem,Yesterday,2.881,3.959,3.335,3.7
+NC,Winston-Salem,Week Ago,2.955,4.013,3.411,3.785
+NC,Winston-Salem,Month Ago,3.008,4.086,3.467,3.848
+NC,Winston-Salem,Year Ago,2.917,4.845,3.293,3.596

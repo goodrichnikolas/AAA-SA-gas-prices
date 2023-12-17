@@ -1,0 +1,61 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+VA,Charlottesville,Current,2.986,3.956,3.393,3.788
+VA,Charlottesville,Yesterday,2.998,3.964,3.421,3.808
+VA,Charlottesville,Week Ago,3.061,4.059,3.478,3.861
+VA,Charlottesville,Month Ago,3.14,4.122,3.548,3.915
+VA,Charlottesville,Year Ago,3.153,5.107,3.505,3.814
+VA,Norfolk-Virginia Beach-Newport News,Current,2.913,3.807,3.375,3.748
+VA,Norfolk-Virginia Beach-Newport News,Yesterday,2.928,3.831,3.395,3.754
+VA,Norfolk-Virginia Beach-Newport News,Week Ago,3.015,4.027,3.493,3.841
+VA,Norfolk-Virginia Beach-Newport News,Month Ago,3.045,4.108,3.505,3.858
+VA,Norfolk-Virginia Beach-Newport News,Year Ago,2.934,4.919,3.381,3.735
+VA,Richmond-Petersburg,Current,2.932,3.771,3.388,3.741
+VA,Richmond-Petersburg,Yesterday,2.94,3.784,3.399,3.752
+VA,Richmond-Petersburg,Week Ago,3.012,3.99,3.476,3.824
+VA,Richmond-Petersburg,Month Ago,3.063,4.066,3.514,3.866
+VA,Richmond-Petersburg,Year Ago,2.997,4.932,3.444,3.74
+VA,Roanoke,Current,2.902,4.02,3.403,3.738
+VA,Roanoke,Yesterday,2.915,4.027,3.416,3.746
+VA,Roanoke,Week Ago,2.985,4.088,3.441,3.786
+VA,Roanoke,Month Ago,3.13,4.232,3.575,3.902
+VA,Roanoke,Year Ago,3.06,4.848,3.448,3.728
+VA,Blacksburg-Christiansburg-Radford,Current,3.026,3.975,3.43,3.852
+VA,Blacksburg-Christiansburg-Radford,Yesterday,3.032,3.985,3.457,3.82
+VA,Blacksburg-Christiansburg-Radford,Week Ago,3.103,4.049,3.563,3.926
+VA,Blacksburg-Christiansburg-Radford,Month Ago,3.223,4.153,3.618,3.992
+VA,Blacksburg-Christiansburg-Radford,Year Ago,3.071,4.895,3.446,3.835
+VA,Bristol-Scott-Washington,Current,2.908,3.977,3.291,3.642
+VA,Bristol-Scott-Washington,Yesterday,2.911,4.003,3.278,3.682
+VA,Bristol-Scott-Washington,Week Ago,2.969,4.029,3.423,3.754
+VA,Bristol-Scott-Washington,Month Ago,3.092,4.161,3.471,3.879
+VA,Bristol-Scott-Washington,Year Ago,2.961,4.807,3.309,3.547
+VA,Harrisonburg,Current,3.057,4.02,3.397,3.748
+VA,Harrisonburg,Yesterday,3.067,4.026,3.409,3.756
+VA,Harrisonburg,Week Ago,3.108,4.09,3.429,3.769
+VA,Harrisonburg,Month Ago,3.179,4.278,3.506,3.837
+VA,Harrisonburg,Year Ago,3.187,5.066,3.506,3.809
+VA,Lynchburg,Current,2.927,4.04,3.307,3.723
+VA,Lynchburg,Yesterday,2.936,4.055,3.345,3.735
+VA,Lynchburg,Week Ago,3.0,4.131,3.427,3.822
+VA,Lynchburg,Month Ago,3.08,4.223,3.483,3.875
+VA,Lynchburg,Year Ago,3.06,4.926,3.44,3.743
+VA,Staunton-Waynesboro,Current,3.018,4.023,3.414,3.799
+VA,Staunton-Waynesboro,Yesterday,3.021,4.004,3.43,3.775
+VA,Staunton-Waynesboro,Week Ago,3.078,4.151,3.474,3.816
+VA,Staunton-Waynesboro,Month Ago,3.188,4.242,3.591,3.979
+VA,Staunton-Waynesboro,Year Ago,3.004,5.083,3.364,3.604
+VA,"Washington, DC, (VA Only)",Current,3.08,4.017,3.584,3.933
+VA,"Washington, DC, (VA Only)",Yesterday,3.091,4.032,3.591,3.94
+VA,"Washington, DC, (VA Only)",Week Ago,3.178,4.207,3.685,4.027
+VA,"Washington, DC, (VA Only)",Month Ago,3.273,4.27,3.773,4.115
+VA,"Washington, DC, (VA Only)",Year Ago,3.17,5.108,3.655,3.965
+VA,Winchester,Current,2.996,3.997,3.363,3.668
+VA,Winchester,Yesterday,2.992,4.002,3.36,3.671
+VA,Winchester,Week Ago,3.017,4.056,3.395,3.709
+VA,Winchester,Month Ago,3.152,4.205,3.501,3.828
+VA,Winchester,Year Ago,3.031,5.006,3.411,3.709
+VA,Fredericksburg,Current,2.867,3.726,3.244,3.582
+VA,Fredericksburg,Yesterday,2.886,3.723,3.251,3.611
+VA,Fredericksburg,Week Ago,2.974,3.966,3.376,3.702
+VA,Fredericksburg,Month Ago,2.989,4.043,3.375,3.684
+VA,Fredericksburg,Year Ago,2.887,4.917,3.214,3.484

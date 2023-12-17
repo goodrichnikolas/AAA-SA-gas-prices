@@ -1,0 +1,71 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+AZ,Flagstaff,Current,3.515,4.303,3.803,4.054
+AZ,Flagstaff,Yesterday,3.542,4.308,3.81,4.041
+AZ,Flagstaff,Week Ago,3.637,4.374,3.886,4.113
+AZ,Flagstaff,Month Ago,3.906,4.681,4.122,4.345
+AZ,Flagstaff,Year Ago,3.808,4.95,4.018,4.302
+AZ,Phoenix-Mesa,Current,3.179,4.0,3.541,3.822
+AZ,Phoenix-Mesa,Yesterday,3.205,4.021,3.56,3.844
+AZ,Phoenix-Mesa,Week Ago,3.335,4.133,3.68,3.965
+AZ,Phoenix-Mesa,Month Ago,3.722,4.327,4.065,4.351
+AZ,Phoenix-Mesa,Year Ago,3.644,4.805,3.992,4.254
+AZ,Pima County,Current,2.819,3.928,3.161,3.443
+AZ,Pima County,Yesterday,2.837,3.942,3.151,3.428
+AZ,Pima County,Week Ago,2.953,4.046,3.289,3.56
+AZ,Pima County,Month Ago,3.356,4.269,3.657,3.958
+AZ,Pima County,Year Ago,3.162,4.792,3.422,3.701
+AZ,Yuma,Current,3.432,4.471,3.817,4.06
+AZ,Yuma,Yesterday,3.418,4.482,3.803,4.065
+AZ,Yuma,Week Ago,3.476,4.58,3.884,4.133
+AZ,Yuma,Month Ago,3.642,4.788,4.016,4.245
+AZ,Yuma,Year Ago,3.522,4.986,3.916,4.068
+AZ,Phoenix Proper,Current,3.142,3.965,3.52,3.783
+AZ,Phoenix Proper,Yesterday,3.162,3.99,3.522,3.804
+AZ,Phoenix Proper,Week Ago,3.291,4.096,3.637,3.921
+AZ,Phoenix Proper,Month Ago,3.672,4.282,4.017,4.293
+AZ,Phoenix Proper,Year Ago,3.58,4.801,3.908,4.18
+AZ,East Valley,Current,3.195,3.997,3.561,3.849
+AZ,East Valley,Yesterday,3.234,4.003,3.596,3.883
+AZ,East Valley,Week Ago,3.366,4.122,3.714,4.003
+AZ,East Valley,Month Ago,3.773,4.309,4.11,4.409
+AZ,East Valley,Year Ago,3.64,4.795,3.991,4.252
+AZ,West Valley,Current,3.189,3.972,3.519,3.849
+AZ,West Valley,Yesterday,3.207,3.995,3.546,3.862
+AZ,West Valley,Week Ago,3.328,4.095,3.674,3.977
+AZ,West Valley,Month Ago,3.724,4.243,4.064,4.346
+AZ,West Valley,Year Ago,3.632,4.765,3.995,4.253
+AZ,Scottsdale,Current,3.402,4.267,3.752,4.004
+AZ,Scottsdale,Yesterday,3.416,4.279,3.768,4.019
+AZ,Scottsdale,Week Ago,3.596,4.418,3.917,4.191
+AZ,Scottsdale,Month Ago,3.931,4.612,4.259,4.544
+AZ,Scottsdale,Year Ago,3.81,4.897,4.134,4.385
+AZ,Tucson,Current,2.822,3.933,3.164,3.445
+AZ,Tucson,Yesterday,2.84,3.939,3.159,3.436
+AZ,Tucson,Week Ago,2.953,4.046,3.287,3.563
+AZ,Tucson,Month Ago,3.357,4.276,3.664,3.961
+AZ,Tucson,Year Ago,3.164,4.782,3.442,3.715
+AZ,Glendale,Current,3.141,3.961,3.464,3.783
+AZ,Glendale,Yesterday,3.154,3.977,3.485,3.781
+AZ,Glendale,Week Ago,3.29,4.086,3.636,3.93
+AZ,Glendale,Month Ago,3.696,4.223,4.022,4.303
+AZ,Glendale,Year Ago,3.548,4.67,3.886,4.151
+AZ,Peoria,Current,3.274,3.965,3.597,3.966
+AZ,Peoria,Yesterday,3.298,3.999,3.639,3.954
+AZ,Peoria,Week Ago,3.395,4.098,3.734,4.061
+AZ,Peoria,Month Ago,3.785,4.271,4.12,4.43
+AZ,Peoria,Year Ago,3.772,4.875,4.16,4.417
+AZ,Prescott,Current,3.428,4.118,3.742,4.055
+AZ,Prescott,Yesterday,3.453,4.151,3.72,4.046
+AZ,Prescott,Week Ago,3.526,4.249,3.816,4.141
+AZ,Prescott,Month Ago,3.833,4.514,4.145,4.408
+AZ,Prescott,Year Ago,3.734,4.951,4.08,4.34
+AZ,Lake Havasu-Kingman,Current,3.52,4.268,3.662,3.942
+AZ,Lake Havasu-Kingman,Yesterday,3.545,4.29,3.635,3.989
+AZ,Lake Havasu-Kingman,Week Ago,3.593,4.42,3.788,4.091
+AZ,Lake Havasu-Kingman,Month Ago,3.907,4.719,4.032,4.33
+AZ,Lake Havasu-Kingman,Year Ago,3.811,4.977,3.904,4.22
+AZ,Sierra Vista-Douglas,Current,3.412,4.157,3.735,4.034
+AZ,Sierra Vista-Douglas,Yesterday,3.413,4.144,3.719,4.029
+AZ,Sierra Vista-Douglas,Week Ago,3.483,4.212,3.808,4.088
+AZ,Sierra Vista-Douglas,Month Ago,3.687,4.424,3.967,4.247
+AZ,Sierra Vista-Douglas,Year Ago,3.446,4.79,3.703,3.962

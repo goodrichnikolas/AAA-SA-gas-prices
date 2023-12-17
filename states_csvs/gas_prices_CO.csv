@@ -1,0 +1,51 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+CO,Boulder-Longmont,Current,2.595,3.586,3.014,3.322
+CO,Boulder-Longmont,Yesterday,2.616,3.621,3.019,3.332
+CO,Boulder-Longmont,Week Ago,2.731,3.741,3.149,3.452
+CO,Boulder-Longmont,Month Ago,3.301,4.386,3.717,4.01
+CO,Boulder-Longmont,Year Ago,2.781,4.507,3.18,3.477
+CO,Colorado Springs,Current,2.577,3.663,3.007,3.288
+CO,Colorado Springs,Yesterday,2.603,3.687,3.016,3.32
+CO,Colorado Springs,Week Ago,2.683,3.792,3.083,3.391
+CO,Colorado Springs,Month Ago,3.035,4.2,3.452,3.743
+CO,Colorado Springs,Year Ago,2.731,4.431,3.112,3.377
+CO,Denver,Current,2.596,3.611,3.006,3.317
+CO,Denver,Yesterday,2.614,3.628,3.033,3.344
+CO,Denver,Week Ago,2.689,3.736,3.113,3.414
+CO,Denver,Month Ago,3.087,4.177,3.5,3.8
+CO,Denver,Year Ago,2.831,4.327,3.229,3.507
+CO,Fort Collins-Loveland,Current,2.779,3.756,3.163,3.503
+CO,Fort Collins-Loveland,Yesterday,2.816,3.763,3.175,3.5
+CO,Fort Collins-Loveland,Week Ago,2.898,3.883,3.321,3.638
+CO,Fort Collins-Loveland,Month Ago,3.272,4.357,3.692,4.002
+CO,Fort Collins-Loveland,Year Ago,2.91,4.551,3.275,3.571
+CO,Pueblo,Current,2.554,3.827,2.934,3.259
+CO,Pueblo,Yesterday,2.574,3.838,2.946,3.279
+CO,Pueblo,Week Ago,2.712,3.914,3.09,3.412
+CO,Pueblo,Month Ago,3.207,4.24,3.559,3.929
+CO,Pueblo,Year Ago,2.985,4.605,3.477,3.753
+CO,Grand Junction (CO only),Current,3.229,4.043,3.571,3.855
+CO,Grand Junction (CO only),Yesterday,3.255,4.05,3.583,3.872
+CO,Grand Junction (CO only),Week Ago,3.355,4.116,3.694,3.967
+CO,Grand Junction (CO only),Month Ago,3.67,4.332,4.008,4.295
+CO,Grand Junction (CO only),Year Ago,2.904,4.804,3.191,3.439
+CO,Durango,Current,3.249,4.131,3.502,3.783
+CO,Durango,Yesterday,3.308,4.152,3.568,3.85
+CO,Durango,Week Ago,3.338,4.197,3.584,3.87
+CO,Durango,Month Ago,3.513,4.439,3.767,4.074
+CO,Durango,Year Ago,3.298,4.913,3.482,3.789
+CO,Glenwood Springs,Current,3.331,4.174,3.755,3.844
+CO,Glenwood Springs,Yesterday,3.34,4.199,3.755,3.931
+CO,Glenwood Springs,Week Ago,3.449,4.243,3.755,3.916
+CO,Glenwood Springs,Month Ago,4.021,4.505,4.355,4.574
+CO,Glenwood Springs,Year Ago,3.355,4.862,3.716,3.899
+CO,Greeley,Current,2.475,3.476,2.911,3.2
+CO,Greeley,Yesterday,2.487,3.511,2.916,3.213
+CO,Greeley,Week Ago,2.58,3.597,3.009,3.309
+CO,Greeley,Month Ago,2.902,3.996,3.319,3.631
+CO,Greeley,Year Ago,2.648,4.296,3.037,3.284
+CO,Vail,Current,3.382,4.019,3.703,3.965
+CO,Vail,Yesterday,3.383,4.042,3.719,3.966
+CO,Vail,Week Ago,3.427,4.196,3.757,4.011
+CO,Vail,Month Ago,3.69,4.382,4.006,4.29
+CO,Vail,Year Ago,3.261,4.576,3.66,3.968

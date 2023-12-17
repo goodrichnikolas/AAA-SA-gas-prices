@@ -1,0 +1,86 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+IL,Bloomington-Normal,Current,3.07,3.849,3.49,3.898
+IL,Bloomington-Normal,Yesterday,3.087,3.846,3.559,3.912
+IL,Bloomington-Normal,Week Ago,3.175,3.958,3.654,4.016
+IL,Bloomington-Normal,Month Ago,3.419,4.253,3.893,4.233
+IL,Bloomington-Normal,Year Ago,3.021,4.739,3.378,3.715
+IL,Champaign-Urbana,Current,3.2,3.998,3.686,4.013
+IL,Champaign-Urbana,Yesterday,3.217,4.011,3.695,4.02
+IL,Champaign-Urbana,Week Ago,3.287,4.058,3.759,4.088
+IL,Champaign-Urbana,Month Ago,3.461,4.157,3.924,4.244
+IL,Champaign-Urbana,Year Ago,3.293,4.64,3.67,3.91
+IL,Chicago Metro,Current,3.299,4.152,3.818,4.297
+IL,Chicago Metro,Yesterday,3.318,4.17,3.843,4.32
+IL,Chicago Metro,Week Ago,3.437,4.242,3.966,4.441
+IL,Chicago Metro,Month Ago,3.648,4.402,4.172,4.641
+IL,Chicago Metro,Year Ago,3.466,4.946,3.946,4.423
+IL,Decatur,Current,2.948,3.854,3.438,3.828
+IL,Decatur,Yesterday,2.968,3.869,3.461,3.849
+IL,Decatur,Week Ago,3.084,3.919,3.597,3.896
+IL,Decatur,Month Ago,3.283,4.159,3.751,4.172
+IL,Decatur,Year Ago,3.132,4.681,3.6,3.842
+IL,Peoria-Pekin,Current,3.154,4.161,3.674,4.009
+IL,Peoria-Pekin,Yesterday,3.17,4.171,3.686,4.03
+IL,Peoria-Pekin,Week Ago,3.229,4.196,3.778,4.1
+IL,Peoria-Pekin,Month Ago,3.452,4.273,3.923,4.289
+IL,Peoria-Pekin,Year Ago,3.459,4.994,3.895,4.191
+IL,Rockford,Current,3.177,3.939,3.672,4.065
+IL,Rockford,Yesterday,3.195,3.951,3.679,4.093
+IL,Rockford,Week Ago,3.282,4.008,3.777,4.157
+IL,Rockford,Month Ago,3.507,4.22,3.991,4.38
+IL,Rockford,Year Ago,3.498,4.774,4.008,4.373
+IL,Springfield,Current,3.072,3.905,3.553,3.935
+IL,Springfield,Yesterday,3.09,3.925,3.564,3.973
+IL,Springfield,Week Ago,3.22,4.004,3.684,4.07
+IL,Springfield,Month Ago,3.482,4.218,3.961,4.322
+IL,Springfield,Year Ago,3.146,4.67,3.55,3.885
+IL,Davenport-Moline-Rock Island (IL only),Current,3.391,4.141,3.85,4.254
+IL,Davenport-Moline-Rock Island (IL only),Yesterday,3.419,4.187,3.875,4.3
+IL,Davenport-Moline-Rock Island (IL only),Week Ago,3.498,4.246,3.974,4.33
+IL,Davenport-Moline-Rock Island (IL only),Month Ago,3.623,4.372,4.084,4.488
+IL,Davenport-Moline-Rock Island (IL only),Year Ago,3.432,4.946,3.851,4.286
+IL,East Saint Louis,Current,3.141,3.973,3.587,3.91
+IL,East Saint Louis,Yesterday,3.156,3.984,3.625,3.937
+IL,East Saint Louis,Week Ago,3.248,4.077,3.686,4.02
+IL,East Saint Louis,Month Ago,3.468,4.278,3.898,4.222
+IL,East Saint Louis,Year Ago,3.311,4.822,3.735,4.02
+IL,Quincy,Current,2.91,3.908,3.312,3.65
+IL,Quincy,Yesterday,2.97,3.913,3.346,3.682
+IL,Quincy,Week Ago,2.88,3.997,3.274,3.6
+IL,Quincy,Month Ago,3.575,4.058,3.918,4.263
+IL,Quincy,Year Ago,3.328,4.67,3.675,3.984
+IL,Danville,Current,3.117,3.889,3.592,3.975
+IL,Danville,Yesterday,3.132,3.925,3.61,4.008
+IL,Danville,Week Ago,3.212,3.997,3.692,4.059
+IL,Danville,Month Ago,3.442,4.196,3.955,4.309
+IL,Danville,Year Ago,3.308,4.727,3.649,4.0
+IL,City of Chicago,Current,3.678,4.608,4.263,4.753
+IL,City of Chicago,Yesterday,3.687,4.591,4.303,4.783
+IL,City of Chicago,Week Ago,3.791,4.641,4.404,4.887
+IL,City of Chicago,Month Ago,3.958,4.708,4.539,5.027
+IL,City of Chicago,Year Ago,3.906,5.311,4.471,4.956
+IL,Alexander County,Current,3.599,0.0,0.0,0.0
+IL,Alexander County,Yesterday,3.599,4.499,0.0,0.0
+IL,Alexander County,Week Ago,3.599,4.499,0.0,0.0
+IL,Alexander County,Month Ago,3.799,4.699,0.0,0.0
+IL,Alexander County,Year Ago,3.499,5.099,0.0,0.0
+IL,Carbondale-Marion,Current,3.016,3.994,3.432,3.771
+IL,Carbondale-Marion,Yesterday,2.988,3.995,3.446,3.771
+IL,Carbondale-Marion,Week Ago,3.092,4.059,3.571,3.892
+IL,Carbondale-Marion,Month Ago,3.372,4.352,3.813,4.144
+IL,Carbondale-Marion,Year Ago,3.012,4.74,3.437,3.736
+IL,Elgin,Current,3.122,4.015,3.69,4.118
+IL,Elgin,Yesterday,3.14,4.04,3.695,4.153
+IL,Elgin,Week Ago,3.265,4.107,3.799,4.26
+IL,Elgin,Month Ago,3.483,4.295,4.0,4.433
+IL,Elgin,Year Ago,3.316,4.799,3.819,4.27
+IL,Kankakee-Bradley,Current,2.985,3.959,3.466,3.801
+IL,Kankakee-Bradley,Yesterday,3.012,3.976,3.494,3.819
+IL,Kankakee-Bradley,Week Ago,3.092,4.043,3.58,3.905
+IL,Kankakee-Bradley,Month Ago,3.318,4.265,3.801,4.144
+IL,Kankakee-Bradley,Year Ago,3.541,4.797,3.974,4.269
+IL,Lake County,Current,3.079,3.964,3.584,4.1
+IL,Lake County,Yesterday,3.096,3.973,3.601,4.109
+IL,Lake County,Week Ago,3.225,4.035,3.714,4.234
+IL,Lake County,Month Ago,3.512,4.208,4.027,4.526
+IL,Lake County,Year Ago,3.254,4.7,3.713,4.21

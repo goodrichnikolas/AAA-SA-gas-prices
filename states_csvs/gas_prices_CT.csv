@@ -1,0 +1,31 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+CT,Bridgeport,Current,3.406,4.485,4.019,4.434
+CT,Bridgeport,Yesterday,3.419,4.494,4.024,4.443
+CT,Bridgeport,Week Ago,3.478,4.522,4.055,4.481
+CT,Bridgeport,Month Ago,3.565,4.573,4.152,4.579
+CT,Bridgeport,Year Ago,3.412,5.408,4.04,4.499
+CT,Hartford,Current,3.152,4.33,3.807,4.22
+CT,Hartford,Yesterday,3.164,4.34,3.821,4.22
+CT,Hartford,Week Ago,3.228,4.401,3.863,4.267
+CT,Hartford,Month Ago,3.334,4.476,3.972,4.387
+CT,Hartford,Year Ago,3.163,5.256,3.814,4.202
+CT,New Haven-Meriden,Current,3.257,4.365,3.848,4.229
+CT,New Haven-Meriden,Yesterday,3.267,4.356,3.851,4.249
+CT,New Haven-Meriden,Week Ago,3.328,4.417,3.919,4.312
+CT,New Haven-Meriden,Month Ago,3.44,4.485,4.035,4.398
+CT,New Haven-Meriden,Year Ago,3.282,5.305,3.929,4.288
+CT,New London-Norwich (CT only),Current,3.229,4.304,3.761,4.164
+CT,New London-Norwich (CT only),Yesterday,3.228,4.342,3.761,4.177
+CT,New London-Norwich (CT only),Week Ago,3.312,4.376,3.868,4.27
+CT,New London-Norwich (CT only),Month Ago,3.42,4.489,3.98,4.341
+CT,New London-Norwich (CT only),Year Ago,3.179,5.324,3.773,4.2
+CT,Windham,Current,3.216,4.325,3.739,4.189
+CT,Windham,Yesterday,3.238,4.354,3.749,4.198
+CT,Windham,Week Ago,3.304,4.425,3.824,4.288
+CT,Windham,Month Ago,3.414,4.506,3.982,4.361
+CT,Windham,Year Ago,3.31,5.224,3.84,4.32
+CT,Lower Fairfield County,Current,3.415,4.456,4.026,4.417
+CT,Lower Fairfield County,Yesterday,3.429,4.462,4.022,4.465
+CT,Lower Fairfield County,Week Ago,3.489,4.502,4.027,4.506
+CT,Lower Fairfield County,Month Ago,3.556,4.539,4.168,4.588
+CT,Lower Fairfield County,Year Ago,3.389,5.373,3.97,4.457

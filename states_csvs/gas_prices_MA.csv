@@ -1,0 +1,36 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+MA,Barnstable-Yarmouth,Current,3.358,4.364,3.898,4.251
+MA,Barnstable-Yarmouth,Yesterday,3.38,4.373,3.96,4.305
+MA,Barnstable-Yarmouth,Week Ago,3.45,4.419,3.984,4.338
+MA,Barnstable-Yarmouth,Month Ago,3.566,4.504,4.101,4.458
+MA,Barnstable-Yarmouth,Year Ago,3.569,5.463,4.225,4.526
+MA,Pittsfield,Current,3.284,4.261,3.905,4.228
+MA,Pittsfield,Yesterday,3.296,4.296,3.922,4.226
+MA,Pittsfield,Week Ago,3.382,4.34,4.043,4.297
+MA,Pittsfield,Month Ago,3.499,4.418,4.137,4.392
+MA,Pittsfield,Year Ago,3.458,5.462,4.198,4.438
+MA,Springfield,Current,3.103,4.2,3.687,4.046
+MA,Springfield,Yesterday,3.113,4.207,3.7,4.044
+MA,Springfield,Week Ago,3.184,4.258,3.779,4.093
+MA,Springfield,Month Ago,3.327,4.359,3.895,4.216
+MA,Springfield,Year Ago,3.386,5.209,3.975,4.23
+MA,Boston (MA only),Current,3.289,4.322,3.916,4.264
+MA,Boston (MA only),Yesterday,3.295,4.322,3.914,4.266
+MA,Boston (MA only),Week Ago,3.351,4.361,3.969,4.299
+MA,Boston (MA only),Month Ago,3.472,4.434,4.068,4.385
+MA,Boston (MA only),Year Ago,3.513,5.408,4.136,4.467
+MA,Cambridge-Newton-Framingham,Current,3.359,4.375,3.941,4.273
+MA,Cambridge-Newton-Framingham,Yesterday,3.36,4.381,3.947,4.292
+MA,Cambridge-Newton-Framingham,Week Ago,3.412,4.421,3.991,4.337
+MA,Cambridge-Newton-Framingham,Month Ago,3.501,4.487,4.058,4.413
+MA,Cambridge-Newton-Framingham,Year Ago,3.528,5.42,4.107,4.46
+MA,Seekonk,Current,3.134,4.157,3.689,4.021
+MA,Seekonk,Yesterday,3.136,4.151,3.705,4.019
+MA,Seekonk,Week Ago,3.189,4.209,3.746,4.064
+MA,Seekonk,Month Ago,3.29,4.298,3.844,4.181
+MA,Seekonk,Year Ago,3.308,5.227,3.881,4.235
+MA,Worcester,Current,3.239,4.215,3.899,4.219
+MA,Worcester,Yesterday,3.246,4.205,3.899,4.207
+MA,Worcester,Week Ago,3.304,4.261,3.941,4.262
+MA,Worcester,Month Ago,3.429,4.353,4.049,4.378
+MA,Worcester,Year Ago,3.429,5.38,4.082,4.441

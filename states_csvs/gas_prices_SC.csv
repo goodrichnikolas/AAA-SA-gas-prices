@@ -1,0 +1,51 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+SC,Charleston-North Charleston,Current,2.732,3.84,3.152,3.529
+SC,Charleston-North Charleston,Yesterday,2.743,3.856,3.164,3.53
+SC,Charleston-North Charleston,Week Ago,2.825,3.92,3.242,3.622
+SC,Charleston-North Charleston,Month Ago,3.005,4.074,3.422,3.782
+SC,Charleston-North Charleston,Year Ago,2.939,4.714,3.332,3.608
+SC,Columbia,Current,2.795,3.733,3.254,3.615
+SC,Columbia,Yesterday,2.802,3.738,3.255,3.62
+SC,Columbia,Week Ago,2.89,3.835,3.346,3.705
+SC,Columbia,Month Ago,2.938,3.961,3.381,3.732
+SC,Columbia,Year Ago,2.813,4.627,3.225,3.571
+SC,Greenville,Current,2.696,3.763,3.025,3.368
+SC,Greenville,Yesterday,2.72,3.776,3.046,3.376
+SC,Greenville,Week Ago,2.825,3.829,3.168,3.486
+SC,Greenville,Month Ago,2.959,3.969,3.3,3.627
+SC,Greenville,Year Ago,2.802,4.637,3.121,3.424
+SC,Myrtle Beach,Current,2.681,3.749,3.071,3.468
+SC,Myrtle Beach,Yesterday,2.7,3.765,3.084,3.491
+SC,Myrtle Beach,Week Ago,2.82,3.835,3.223,3.612
+SC,Myrtle Beach,Month Ago,2.971,3.998,3.379,3.732
+SC,Myrtle Beach,Year Ago,2.781,4.681,3.152,3.419
+SC,Aiken-Edgfield County,Current,2.825,3.746,3.317,3.694
+SC,Aiken-Edgfield County,Yesterday,2.83,3.761,3.339,3.689
+SC,Aiken-Edgfield County,Week Ago,2.888,3.803,3.371,3.759
+SC,Aiken-Edgfield County,Month Ago,2.86,3.892,3.349,3.722
+SC,Aiken-Edgfield County,Year Ago,2.883,4.608,3.289,3.52
+SC,Florence,Current,2.778,3.789,3.218,3.594
+SC,Florence,Yesterday,2.783,3.81,3.196,3.603
+SC,Florence,Week Ago,2.86,3.849,3.271,3.657
+SC,Florence,Month Ago,2.958,4.055,3.376,3.758
+SC,Florence,Year Ago,2.885,4.936,3.283,3.686
+SC,Hilton Head-Bluffton,Current,2.884,3.913,3.332,3.729
+SC,Hilton Head-Bluffton,Yesterday,2.883,3.922,3.304,3.726
+SC,Hilton Head-Bluffton,Week Ago,2.929,3.982,3.394,3.776
+SC,Hilton Head-Bluffton,Month Ago,3.01,4.069,3.444,3.775
+SC,Hilton Head-Bluffton,Year Ago,3.01,4.661,3.464,3.696
+SC,Rock Hill,Current,2.703,3.781,3.129,3.469
+SC,Rock Hill,Yesterday,2.708,3.775,3.162,3.471
+SC,Rock Hill,Week Ago,2.795,3.861,3.205,3.571
+SC,Rock Hill,Month Ago,2.882,3.975,3.292,3.622
+SC,Rock Hill,Year Ago,2.823,4.618,3.255,3.553
+SC,Spartanburg,Current,2.825,3.812,3.24,3.585
+SC,Spartanburg,Yesterday,2.831,3.832,3.252,3.598
+SC,Spartanburg,Week Ago,2.875,3.892,3.304,3.62
+SC,Spartanburg,Month Ago,2.933,4.034,3.319,3.656
+SC,Spartanburg,Year Ago,2.847,4.623,3.272,3.568
+SC,Sumter,Current,2.776,3.7,3.198,3.607
+SC,Sumter,Yesterday,2.784,3.708,3.206,3.605
+SC,Sumter,Week Ago,2.873,3.76,3.312,3.713
+SC,Sumter,Month Ago,2.984,3.885,3.425,3.759
+SC,Sumter,Year Ago,2.92,4.765,3.214,3.596

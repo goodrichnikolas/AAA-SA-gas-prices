@@ -1,0 +1,41 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+MO,Columbia,Current,2.73,3.712,3.034,3.301
+MO,Columbia,Yesterday,2.733,3.722,3.025,3.309
+MO,Columbia,Week Ago,2.767,3.758,3.07,3.322
+MO,Columbia,Month Ago,3.005,4.028,3.258,3.521
+MO,Columbia,Year Ago,2.579,4.41,2.728,3.022
+MO,St. Joseph,Current,2.544,3.278,3.037,3.209
+MO,St. Joseph,Yesterday,2.557,3.303,3.012,3.182
+MO,St. Joseph,Week Ago,2.612,3.391,3.035,3.256
+MO,St. Joseph,Month Ago,2.838,3.996,3.109,3.511
+MO,St. Joseph,Year Ago,2.674,4.208,2.969,3.225
+MO,Springfield,Current,2.495,3.621,2.848,3.168
+MO,Springfield,Yesterday,2.511,3.638,2.853,3.18
+MO,Springfield,Week Ago,2.624,3.772,2.996,3.304
+MO,Springfield,Month Ago,2.902,4.188,3.179,3.531
+MO,Springfield,Year Ago,2.77,4.12,3.14,3.472
+MO,Kansas City (MO only),Current,2.506,3.64,2.821,3.108
+MO,Kansas City (MO only),Yesterday,2.523,3.661,2.831,3.129
+MO,Kansas City (MO only),Week Ago,2.599,3.771,2.892,3.193
+MO,Kansas City (MO only),Month Ago,2.887,4.244,3.192,3.499
+MO,Kansas City (MO only),Year Ago,2.684,4.243,2.98,3.272
+MO,St. Louis (MO only),Current,2.77,3.67,3.111,3.397
+MO,St. Louis (MO only),Yesterday,2.778,3.674,3.119,3.413
+MO,St. Louis (MO only),Week Ago,2.84,3.743,3.176,3.472
+MO,St. Louis (MO only),Month Ago,3.038,3.952,3.381,3.675
+MO,St. Louis (MO only),Year Ago,2.7,4.472,3.013,3.281
+MO,Cape Girardeau,Current,2.812,3.855,3.123,3.495
+MO,Cape Girardeau,Yesterday,2.811,3.865,3.118,3.524
+MO,Cape Girardeau,Week Ago,2.864,3.936,3.213,3.582
+MO,Cape Girardeau,Month Ago,2.998,4.097,3.292,3.672
+MO,Cape Girardeau,Year Ago,2.912,4.609,3.208,3.594
+MO,Jefferson City,Current,2.784,3.703,3.099,3.43
+MO,Jefferson City,Yesterday,2.792,3.699,3.133,3.45
+MO,Jefferson City,Week Ago,2.884,3.759,3.207,3.544
+MO,Jefferson City,Month Ago,3.116,4.128,3.41,3.74
+MO,Jefferson City,Year Ago,2.815,4.443,3.107,3.42
+MO,Joplin,Current,2.47,3.474,2.85,3.161
+MO,Joplin,Yesterday,2.479,3.504,2.876,3.185
+MO,Joplin,Week Ago,2.56,3.63,2.942,3.293
+MO,Joplin,Month Ago,2.723,4.043,3.118,3.505
+MO,Joplin,Year Ago,2.554,4.001,2.926,3.276

@@ -1,0 +1,26 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+KS,Lawrence,Current,2.674,3.716,3.068,3.405
+KS,Lawrence,Yesterday,2.68,3.722,3.059,3.428
+KS,Lawrence,Week Ago,2.751,3.81,3.192,3.418
+KS,Lawrence,Month Ago,3.059,4.272,3.409,3.764
+KS,Lawrence,Year Ago,2.738,4.026,3.059,3.459
+KS,Topeka,Current,2.742,3.741,3.088,3.444
+KS,Topeka,Yesterday,2.754,3.752,3.13,3.475
+KS,Topeka,Week Ago,2.801,3.825,3.161,3.491
+KS,Topeka,Month Ago,3.042,4.316,3.387,3.747
+KS,Topeka,Year Ago,2.756,4.279,3.125,3.471
+KS,Wichita,Current,2.797,3.748,3.04,3.282
+KS,Wichita,Yesterday,2.802,3.77,3.066,3.293
+KS,Wichita,Week Ago,2.879,3.878,3.141,3.386
+KS,Wichita,Month Ago,3.082,4.242,3.354,3.628
+KS,Wichita,Year Ago,2.734,3.924,2.971,3.245
+KS,Kansas City (KS only),Current,2.54,3.679,2.845,3.145
+KS,Kansas City (KS only),Yesterday,2.553,3.71,2.868,3.143
+KS,Kansas City (KS only),Week Ago,2.622,3.808,2.924,3.235
+KS,Kansas City (KS only),Month Ago,2.91,4.245,3.232,3.532
+KS,Kansas City (KS only),Year Ago,2.755,4.296,3.063,3.357
+KS,Manhattan,Current,2.798,3.59,3.13,3.498
+KS,Manhattan,Yesterday,2.76,3.611,3.156,3.506
+KS,Manhattan,Week Ago,2.792,3.722,3.193,3.537
+KS,Manhattan,Month Ago,3.097,3.912,3.459,3.79
+KS,Manhattan,Year Ago,2.863,3.938,3.231,3.568

@@ -1,0 +1,11 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+DC,Washington (DC only),Current,3.283,4.178,3.873,4.24
+DC,Washington (DC only),Yesterday,3.281,4.295,3.891,4.262
+DC,Washington (DC only),Week Ago,3.373,4.212,3.953,4.343
+DC,Washington (DC only),Month Ago,3.531,4.482,4.113,4.544
+DC,Washington (DC only),Year Ago,3.497,5.219,4.091,4.442
+DC,Washington (Entire Metro Average),Current,3.123,4.066,3.643,3.974
+DC,Washington (Entire Metro Average),Yesterday,3.128,4.082,3.653,3.98
+DC,Washington (Entire Metro Average),Week Ago,3.212,4.208,3.736,4.074
+DC,Washington (Entire Metro Average),Month Ago,3.301,4.278,3.82,4.155
+DC,Washington (Entire Metro Average),Year Ago,3.234,5.128,3.734,4.034

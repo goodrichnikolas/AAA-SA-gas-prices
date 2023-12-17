@@ -1,0 +1,11 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+NV,Reno,Current,4.408,4.427,4.66,4.847
+NV,Reno,Yesterday,4.425,4.441,4.677,4.843
+NV,Reno,Week Ago,4.485,4.507,4.731,4.916
+NV,Reno,Month Ago,4.755,4.894,4.994,5.16
+NV,Reno,Year Ago,4.595,5.086,4.822,5.005
+NV,Las Vegas (NV only),Current,3.898,4.376,4.195,4.429
+NV,Las Vegas (NV only),Yesterday,3.912,4.396,4.206,4.446
+NV,Las Vegas (NV only),Week Ago,4.011,4.523,4.308,4.552
+NV,Las Vegas (NV only),Month Ago,4.316,4.761,4.604,4.853
+NV,Las Vegas (NV only),Year Ago,4.033,5.134,4.29,4.515

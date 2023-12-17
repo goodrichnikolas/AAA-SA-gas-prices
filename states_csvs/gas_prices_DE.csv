@@ -1,0 +1,16 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+DE,Dover,Current,2.955,3.971,3.386,3.695
+DE,Dover,Yesterday,2.963,3.983,3.421,3.683
+DE,Dover,Week Ago,3.026,4.065,3.467,3.734
+DE,Dover,Month Ago,3.082,4.098,3.564,3.789
+DE,Dover,Year Ago,3.109,5.048,3.507,3.744
+DE,Wilmington-Newark (DE only),Current,2.978,3.978,3.573,3.864
+DE,Wilmington-Newark (DE only),Yesterday,2.974,3.989,3.571,3.859
+DE,Wilmington-Newark (DE only),Week Ago,3.026,4.054,3.623,3.903
+DE,Wilmington-Newark (DE only),Month Ago,3.095,4.11,3.703,3.964
+DE,Wilmington-Newark (DE only),Year Ago,3.104,4.989,3.67,3.905
+DE,Milford-Seaford,Current,2.951,3.963,3.342,3.668
+DE,Milford-Seaford,Yesterday,2.957,3.968,3.339,3.664
+DE,Milford-Seaford,Week Ago,3.01,4.026,3.401,3.76
+DE,Milford-Seaford,Month Ago,3.081,4.053,3.437,3.793
+DE,Milford-Seaford,Year Ago,3.102,4.947,3.435,3.772

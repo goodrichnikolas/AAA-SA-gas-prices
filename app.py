@@ -2,90 +2,98 @@ from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
 import pandas as pd
 import decimal
+import time
+import random
+import tqdm
+import json
+import glob
+import os
 
+url = 'https://gasprices.aaa.com/?state='
+todays_date = time.strftime("%m-%d-%Y")
 
-url = 'https://gasprices.aaa.com/?state=TX'
+states = ['AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'FL', 'GA',
+            'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MD',
+            'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ',
+            'NM', 'NY', 'NC', 'ND', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC',
+            'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'WA', 'WV', 'WI', 'WY',
+            'DC', 'PR', 'VI']
 
-# Source: https://docs.python.org/3/library/decimal.html
-def moneyfmt(value, places=2, curr='', sep=',', dp='.',
-             pos='', neg='-', trailneg=''):
-    """Convert Decimal to a money formatted string.
-
-    places:  required number of places after the decimal point
-    curr:    optional currency symbol before the sign (may be blank)
-    sep:     optional grouping separator (comma, period, space, or blank)
-    dp:      decimal point indicator (comma or period)
-             only specify as blank when places is zero
-    pos:     optional sign for positive numbers: '+', space or blank
-    neg:     optional sign for negative numbers: '-', '(', space or blank
-    trailneg:optional trailing minus indicator:  '-', ')', space or blank
-
-    >>> d = Decimal('-1234567.8901')
-    >>> moneyfmt(d, curr='$')
-    '-$1,234,567.89'
-    >>> moneyfmt(d, places=0, sep='.', dp='', neg='', trailneg='-')
-    '1.234.568-'
-    >>> moneyfmt(d, curr='$', neg='(', trailneg=')')
-    '($1,234,567.89)'
-    >>> moneyfmt(Decimal(123456789), sep=' ')
-    '123 456 789.00'
-    >>> moneyfmt(Decimal('-0.02'), neg='<', trailneg='>')
-    '<0.02>'
-
-    """
-    q = decimal.Decimal(10) ** -places      # 2 places --> '0.01'
-    sign, digits, exp = value.quantize(q).as_tuple()
-    result = []
-    digits = list(map(str, digits))
-    build, next = result.append, digits.pop
-    if sign:
-        build(trailneg)
-    for i in range(places):
-        build(next() if digits else '0')
-    if places:
-        build(dp)
-    if not digits:
-        build('0')
-    i = 0
-    while digits:
-        build(next())
-        i += 1
-        if i == 3 and digits:
-            i = 0
-            build(sep)
-    build(curr)
-    build(neg if sign else pos)
-    return ''.join(reversed(result))
-
-
-def priceScraper(url):
+def priceScraper(url, state):
+    df_rows = []
+    url += state
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     page = urlopen(req).read()
     soup = BeautifulSoup(page, 'html.parser')
     cities = soup.find_all('h3')
-    # print(cities)
-    index = 0
-    for h3 in cities:
-        if h3.text == 'San Antonio':
-            # print('Found San Antonio! Its index is {}'.format(index))
-            break
-        else:
-            # print('Nope')
-            index += 1  
-    print('------------------------------------------------------')
-    sanAntonioRow = cities[index]
-    print(sanAntonioRow.text)
-    priceRow = sanAntonioRow.find_next_sibling().find_all('tr')[1]
-    regularGasPrice = moneyfmt(decimal.Decimal(priceRow.find_all('td')[1].text[1:]), places=2, curr='$', sep=',', dp='.')
-    dieselGasPrice = moneyfmt(decimal.Decimal(priceRow.find_all('td')[4].text[1:]), places=2, curr='$', sep=',', dp='.')
-    prices = [regularGasPrice, dieselGasPrice]
-    # print('Regular: {}'.format(regularGasPrice))
-    # print('Diesel: {}'.format(dieselGasPrice))
 
-    df = pd.DataFrame()
-    df[''] = ['Regular', 'Diesel']
-    df['Price'] = prices
-    print(df)
-    df.to_csv('gasPrices.csv', index=False)
+    for cityRow in cities:
+        city_name = cityRow.text
+        # print('------------------------------------------------------')
+        print(city_name)
 
-priceScraper(url)
+        # range 1 - 5, current, yesterday, week ago, month ago, year ago
+        labels = ['Current', 'Yesterday', 'Week Ago', 'Month Ago', 'Year Ago']
+        city_dict = {}
+
+        for i, label in enumerate(labels):
+            priceRow = cityRow.find_next_sibling().find_all('tr')[i+1]
+            regularGasPrice = float(priceRow.find_all('td')[1].text[1:])
+            midGasPrice = float(priceRow.find_all('td')[2].text[1:])
+            premiumGasPrice = float(priceRow.find_all('td')[3].text[1:])
+            dieselGasPrice = float(priceRow.find_all('td')[4].text[1:])
+
+            city_dict[label] = {
+                'Regular': regularGasPrice,
+                'Diesel': dieselGasPrice,
+                'Mid': midGasPrice,
+                'Premium': premiumGasPrice
+            }
+            
+            dict_to_df = {
+                'State': state,
+                'City': city_name,
+                'Label': label,
+                'Regular': regularGasPrice,
+                'Diesel': dieselGasPrice,
+                'Mid': midGasPrice,
+                'Premium': premiumGasPrice
+            }
+            df_rows.append(dict_to_df)
+            
+    df = pd.DataFrame(df_rows)
+    df.to_csv(f'./AAA Gas/AAA-SA-gas-prices/states_csvs/gas_prices_{state}.csv', index=False)
+        
+
+    
+
+def combine_csvs():
+    #print cwd
+    print(os.getcwd())
+    all_files = glob.glob('./states_csvs/*.csv')
+    df = pd.concat([pd.read_csv(f) for f in all_files])
+    df.to_csv(f'./AAA Gas/AAA-SA-gas-prices/combined_csvs/gas_prices_combined_{todays_date}.csv', index=False)
+    
+    
+def get_gas_prices(states):
+    for state in tqdm.tqdm(states):
+        print(f'Getting data for {state}')
+        state_dict = priceScraper(url, state)
+        #random sleep to avoid getting blocked
+        time.sleep(random.randint(1, 5))
+        
+        
+def create_folder_if_not_exists(folder_name):
+    if not os.path.exists(folder_name):
+        os.makedirs(folder_name)
+    
+def main():
+    #get_gas_prices(states)
+    #Combine all csv files into one
+    #Creat combined csv folder if not exists
+    create_folder_if_not_exists('./combined_csvs')
+    combine_csvs()
+        
+    
+if __name__ == "__main__":
+    main()

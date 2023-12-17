@@ -1,0 +1,121 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+FL,Daytona Beach,Current,2.891,3.658,3.305,3.638
+FL,Daytona Beach,Yesterday,2.913,3.678,3.311,3.652
+FL,Daytona Beach,Week Ago,3.033,3.818,3.454,3.79
+FL,Daytona Beach,Month Ago,3.091,4.081,3.492,3.815
+FL,Daytona Beach,Year Ago,3.006,4.71,3.409,3.716
+FL,Fort Lauderdale,Current,2.978,3.794,3.47,3.793
+FL,Fort Lauderdale,Yesterday,2.989,3.813,3.494,3.816
+FL,Fort Lauderdale,Week Ago,3.072,3.973,3.579,3.878
+FL,Fort Lauderdale,Month Ago,3.179,4.151,3.66,3.97
+FL,Fort Lauderdale,Year Ago,3.13,4.793,3.613,3.926
+FL,Fort Myers-Cape Coral,Current,2.929,3.651,3.351,3.691
+FL,Fort Myers-Cape Coral,Yesterday,2.947,3.675,3.372,3.715
+FL,Fort Myers-Cape Coral,Week Ago,3.047,3.889,3.465,3.816
+FL,Fort Myers-Cape Coral,Month Ago,3.122,4.058,3.526,3.875
+FL,Fort Myers-Cape Coral,Year Ago,3.018,4.732,3.434,3.716
+FL,Gainesville,Current,2.965,3.862,3.381,3.745
+FL,Gainesville,Yesterday,2.969,3.857,3.379,3.741
+FL,Gainesville,Week Ago,3.094,3.998,3.506,3.891
+FL,Gainesville,Month Ago,3.135,4.183,3.539,3.922
+FL,Gainesville,Year Ago,3.188,4.864,3.566,3.88
+FL,Jacksonville,Current,2.892,3.746,3.343,3.702
+FL,Jacksonville,Yesterday,2.885,3.73,3.32,3.678
+FL,Jacksonville,Week Ago,3.028,3.864,3.459,3.822
+FL,Jacksonville,Month Ago,3.069,4.062,3.491,3.857
+FL,Jacksonville,Year Ago,3.043,4.747,3.437,3.753
+FL,Miami,Current,2.963,3.828,3.463,3.738
+FL,Miami,Yesterday,2.977,3.849,3.474,3.744
+FL,Miami,Week Ago,3.065,3.948,3.55,3.801
+FL,Miami,Month Ago,3.187,4.131,3.649,3.9
+FL,Miami,Year Ago,3.183,4.736,3.63,3.883
+FL,Orlando,Current,2.734,3.558,3.146,3.451
+FL,Orlando,Yesterday,2.763,3.58,3.17,3.473
+FL,Orlando,Week Ago,2.945,3.738,3.36,3.651
+FL,Orlando,Month Ago,3.023,3.978,3.428,3.726
+FL,Orlando,Year Ago,2.988,4.691,3.388,3.66
+FL,Pensacola,Current,2.751,3.715,3.16,3.536
+FL,Pensacola,Yesterday,2.757,3.734,3.185,3.538
+FL,Pensacola,Week Ago,2.861,3.809,3.282,3.664
+FL,Pensacola,Month Ago,2.913,4.009,3.345,3.737
+FL,Pensacola,Year Ago,2.844,4.483,3.231,3.517
+FL,Tallahassee,Current,2.97,3.948,3.366,3.792
+FL,Tallahassee,Yesterday,2.988,3.94,3.375,3.791
+FL,Tallahassee,Week Ago,3.059,4.002,3.478,3.87
+FL,Tallahassee,Month Ago,3.191,4.206,3.578,3.992
+FL,Tallahassee,Year Ago,3.083,4.799,3.465,3.845
+FL,Tampa-St. Petersburg-Clearwater,Current,2.737,3.585,3.171,3.515
+FL,Tampa-St. Petersburg-Clearwater,Yesterday,2.766,3.614,3.193,3.531
+FL,Tampa-St. Petersburg-Clearwater,Week Ago,2.975,3.774,3.406,3.736
+FL,Tampa-St. Petersburg-Clearwater,Month Ago,3.047,4.014,3.473,3.795
+FL,Tampa-St. Petersburg-Clearwater,Year Ago,3.031,4.691,3.452,3.75
+FL,West Palm Beach-Boca Raton,Current,3.091,3.842,3.567,3.879
+FL,West Palm Beach-Boca Raton,Yesterday,3.108,3.865,3.587,3.883
+FL,West Palm Beach-Boca Raton,Week Ago,3.227,4.005,3.706,4.025
+FL,West Palm Beach-Boca Raton,Month Ago,3.32,4.204,3.775,4.12
+FL,West Palm Beach-Boca Raton,Year Ago,3.296,4.847,3.734,4.077
+FL,Bradenton-Sarasota-Venice,Current,2.856,3.639,3.267,3.59
+FL,Bradenton-Sarasota-Venice,Yesterday,2.876,3.656,3.282,3.607
+FL,Bradenton-Sarasota-Venice,Week Ago,3.003,3.845,3.439,3.767
+FL,Bradenton-Sarasota-Venice,Month Ago,3.097,4.056,3.516,3.836
+FL,Bradenton-Sarasota-Venice,Year Ago,3.068,4.732,3.489,3.771
+FL,Crestview-Fort Walton Beach,Current,2.759,3.744,3.168,3.486
+FL,Crestview-Fort Walton Beach,Yesterday,2.762,3.756,3.165,3.503
+FL,Crestview-Fort Walton Beach,Week Ago,2.841,3.828,3.242,3.576
+FL,Crestview-Fort Walton Beach,Month Ago,2.914,4.011,3.341,3.679
+FL,Crestview-Fort Walton Beach,Year Ago,2.794,4.587,3.213,3.525
+FL,Homosassa Springs,Current,2.992,3.755,3.408,3.784
+FL,Homosassa Springs,Yesterday,3.011,3.763,3.407,3.791
+FL,Homosassa Springs,Week Ago,3.086,3.887,3.534,3.826
+FL,Homosassa Springs,Month Ago,3.101,4.041,3.522,3.864
+FL,Homosassa Springs,Year Ago,3.108,4.776,3.527,3.804
+FL,Lakeland-Winter Haven,Current,2.788,3.673,3.168,3.516
+FL,Lakeland-Winter Haven,Yesterday,2.802,3.682,3.189,3.519
+FL,Lakeland-Winter Haven,Week Ago,2.966,3.842,3.371,3.711
+FL,Lakeland-Winter Haven,Month Ago,3.064,4.008,3.464,3.775
+FL,Lakeland-Winter Haven,Year Ago,3.127,4.736,3.507,3.812
+FL,Melbourne-Titusville,Current,2.8,3.701,3.233,3.591
+FL,Melbourne-Titusville,Yesterday,2.817,3.724,3.26,3.613
+FL,Melbourne-Titusville,Week Ago,2.969,3.835,3.424,3.76
+FL,Melbourne-Titusville,Month Ago,3.027,4.08,3.48,3.82
+FL,Melbourne-Titusville,Year Ago,3.019,4.786,3.467,3.745
+FL,Naples,Current,3.006,3.853,3.437,3.811
+FL,Naples,Yesterday,3.022,3.849,3.441,3.846
+FL,Naples,Week Ago,3.139,4.003,3.559,3.93
+FL,Naples,Month Ago,3.205,4.143,3.624,3.963
+FL,Naples,Year Ago,3.193,4.801,3.605,3.869
+FL,Ocala,Current,2.842,3.666,3.236,3.579
+FL,Ocala,Yesterday,2.852,3.683,3.252,3.598
+FL,Ocala,Week Ago,2.974,3.823,3.335,3.69
+FL,Ocala,Month Ago,3.095,4.072,3.459,3.806
+FL,Ocala,Year Ago,3.025,4.734,3.414,3.696
+FL,Panama City,Current,2.779,3.803,3.175,3.534
+FL,Panama City,Yesterday,2.79,3.812,3.178,3.561
+FL,Panama City,Week Ago,2.861,3.877,3.272,3.686
+FL,Panama City,Month Ago,3.004,3.99,3.371,3.728
+FL,Panama City,Year Ago,2.875,4.367,3.258,3.566
+FL,Port St. Lucie,Current,2.963,3.749,3.397,3.73
+FL,Port St. Lucie,Yesterday,2.98,3.765,3.406,3.754
+FL,Port St. Lucie,Week Ago,3.099,3.927,3.547,3.889
+FL,Port St. Lucie,Month Ago,3.169,4.129,3.621,3.945
+FL,Port St. Lucie,Year Ago,3.054,4.732,3.469,3.799
+FL,Punta Gorda,Current,2.852,3.704,3.306,3.632
+FL,Punta Gorda,Yesterday,2.879,3.704,3.317,3.641
+FL,Punta Gorda,Week Ago,2.997,3.893,3.458,3.797
+FL,Punta Gorda,Month Ago,3.068,4.076,3.508,3.867
+FL,Punta Gorda,Year Ago,2.979,4.775,3.469,3.71
+FL,Sebastian-Vero Beach,Current,2.87,3.834,3.322,3.618
+FL,Sebastian-Vero Beach,Yesterday,2.883,3.837,3.328,3.621
+FL,Sebastian-Vero Beach,Week Ago,3.01,3.981,3.497,3.826
+FL,Sebastian-Vero Beach,Month Ago,3.12,4.136,3.559,3.9
+FL,Sebastian-Vero Beach,Year Ago,3.099,4.769,3.599,3.952
+FL,Sebring,Current,2.973,3.665,3.326,3.676
+FL,Sebring,Yesterday,2.977,3.646,3.338,3.657
+FL,Sebring,Week Ago,3.115,3.875,3.508,3.807
+FL,Sebring,Month Ago,3.163,4.051,3.551,3.803
+FL,Sebring,Year Ago,3.128,4.699,3.558,3.856
+FL,The Villages,Current,2.777,3.594,3.167,3.532
+FL,The Villages,Yesterday,2.792,3.586,3.182,3.576
+FL,The Villages,Week Ago,2.93,3.691,3.336,3.716
+FL,The Villages,Month Ago,3.006,3.931,3.378,3.825
+FL,The Villages,Year Ago,3.012,4.552,3.437,3.717

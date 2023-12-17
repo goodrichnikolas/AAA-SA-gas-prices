@@ -1,0 +1,66 @@
+State,City,Label,Regular,Diesel,Mid,Premium
+AL,Birmingham,Current,2.732,3.809,3.158,3.523
+AL,Birmingham,Yesterday,2.739,3.822,3.177,3.545
+AL,Birmingham,Week Ago,2.807,3.882,3.239,3.599
+AL,Birmingham,Month Ago,2.923,4.038,3.371,3.735
+AL,Birmingham,Year Ago,2.848,4.575,3.249,3.619
+AL,Huntsville,Current,2.747,3.812,3.164,3.534
+AL,Huntsville,Yesterday,2.759,3.829,3.165,3.55
+AL,Huntsville,Week Ago,2.821,3.884,3.22,3.618
+AL,Huntsville,Month Ago,2.946,4.023,3.344,3.721
+AL,Huntsville,Year Ago,2.821,4.59,3.181,3.515
+AL,Mobile,Current,2.735,3.68,3.21,3.576
+AL,Mobile,Yesterday,2.743,3.666,3.216,3.566
+AL,Mobile,Week Ago,2.818,3.788,3.264,3.621
+AL,Mobile,Month Ago,2.913,3.94,3.348,3.694
+AL,Mobile,Year Ago,2.803,4.518,3.294,3.639
+AL,Montgomery,Current,2.767,3.842,3.229,3.63
+AL,Montgomery,Yesterday,2.774,3.858,3.244,3.654
+AL,Montgomery,Week Ago,2.846,3.905,3.3,3.722
+AL,Montgomery,Month Ago,2.926,4.038,3.383,3.758
+AL,Montgomery,Year Ago,2.864,4.597,3.304,3.638
+AL,Tuscaloosa,Current,2.707,3.716,3.139,3.551
+AL,Tuscaloosa,Yesterday,2.712,3.719,3.179,3.555
+AL,Tuscaloosa,Week Ago,2.776,3.791,3.214,3.614
+AL,Tuscaloosa,Month Ago,2.893,3.975,3.287,3.676
+AL,Tuscaloosa,Year Ago,2.812,4.5,3.18,3.542
+AL,Anniston-Oxford,Current,2.685,3.749,3.038,3.402
+AL,Anniston-Oxford,Yesterday,2.681,3.767,3.035,3.388
+AL,Anniston-Oxford,Week Ago,2.775,3.8,3.139,3.496
+AL,Anniston-Oxford,Month Ago,2.942,3.946,3.281,3.657
+AL,Anniston-Oxford,Year Ago,2.861,4.651,3.226,3.528
+AL,Auburn,Current,2.686,3.691,3.046,3.441
+AL,Auburn,Yesterday,2.694,3.675,3.052,3.42
+AL,Auburn,Week Ago,2.764,3.783,3.146,3.458
+AL,Auburn,Month Ago,2.857,3.982,3.262,3.594
+AL,Auburn,Year Ago,2.815,4.519,3.116,3.503
+AL,Daphne-Fairhope-Foley,Current,2.694,3.631,3.114,3.452
+AL,Daphne-Fairhope-Foley,Yesterday,2.691,3.642,3.103,3.474
+AL,Daphne-Fairhope-Foley,Week Ago,2.768,3.713,3.172,3.54
+AL,Daphne-Fairhope-Foley,Month Ago,2.897,3.921,3.288,3.681
+AL,Daphne-Fairhope-Foley,Year Ago,2.886,4.398,3.297,3.675
+AL,Decatur,Current,2.681,3.746,3.096,3.45
+AL,Decatur,Yesterday,2.696,3.763,3.099,3.486
+AL,Decatur,Week Ago,2.75,3.829,3.198,3.594
+AL,Decatur,Month Ago,2.88,3.976,3.338,3.737
+AL,Decatur,Year Ago,2.78,4.54,3.157,3.562
+AL,Dothan,Current,2.791,3.846,3.157,3.566
+AL,Dothan,Yesterday,2.797,3.842,3.144,3.579
+AL,Dothan,Week Ago,2.852,3.914,3.243,3.598
+AL,Dothan,Month Ago,2.932,4.05,3.269,3.643
+AL,Dothan,Year Ago,2.819,4.596,3.179,3.588
+AL,Florence-Muscle Shoals,Current,2.694,3.84,3.081,3.477
+AL,Florence-Muscle Shoals,Yesterday,2.697,3.877,3.089,3.469
+AL,Florence-Muscle Shoals,Week Ago,2.765,3.935,3.159,3.536
+AL,Florence-Muscle Shoals,Month Ago,2.926,4.01,3.329,3.73
+AL,Florence-Muscle Shoals,Year Ago,2.787,4.567,3.236,3.602
+AL,Gadsden,Current,2.609,3.741,2.96,3.411
+AL,Gadsden,Yesterday,2.608,3.758,2.965,3.409
+AL,Gadsden,Week Ago,2.681,3.824,3.057,3.498
+AL,Gadsden,Month Ago,2.845,3.984,3.246,3.605
+AL,Gadsden,Year Ago,2.711,4.63,3.04,3.463
+AL,Russell County,Current,2.783,3.935,3.317,3.592
+AL,Russell County,Yesterday,2.778,3.908,3.298,3.641
+AL,Russell County,Week Ago,2.82,4.036,3.34,3.568
+AL,Russell County,Month Ago,2.885,4.096,3.368,3.67
+AL,Russell County,Year Ago,2.823,4.694,3.325,3.662
